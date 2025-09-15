@@ -8,10 +8,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-09-14 |
+| [speedrun_runners](./speedrun_runners) | 1 | 2025-09-15 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **3**
-- Total Demos: **3**
+- Total Maps: **4**
+- Total Demos: **4**
