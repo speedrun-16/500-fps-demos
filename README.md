@@ -6,13 +6,19 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
+| [speedrun_confusion3](./speedrun_confusion3) | 1 | 2025-09-15 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-09-14 |
+| [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-15 |
+| [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2025-09-15 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **4**
-- Total Demos: **4**
+- Total Maps: **10**
+- Total Demos: **11**
