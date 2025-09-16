@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "13e31bcca3da02c32d452807274b6fc125b7c59ce9a7bd7165f06ebf7d31f08c",
+    "uid": "A5VC8SBYH",
+    "map": "speedrun_pool_simple",
+    "category": 6,
+    "time": 8275,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-16T14:33:53.000Z",
+    "zipFilename": "00008275_STEAM_0_1_771348382_20250916-143353.zip",
+    "path": "speedrun_pool_simple/00008275_STEAM_0_1_771348382_20250916-143353.zip",
+    "archivedAt": "2025-09-16T15:00:03.893Z"
+  },
+  {
+    "demFileHash": "1b35331ec30158acc30d114cfa5043e1f9528b56d85e317e9895719d19685166",
+    "uid": "S7FSG8LG9",
+    "map": "speedrun_pool_simple",
+    "category": 6,
+    "time": 8386,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-16T14:11:55.000Z",
+    "zipFilename": "00008386_STEAM_0_0_1181305_20250916-141155.zip",
+    "path": "speedrun_pool_simple/00008386_STEAM_0_0_1181305_20250916-141155.zip",
+    "archivedAt": "2025-09-16T15:00:03.893Z"
+  },
+  {
     "demFileHash": "03b9e04e3486b2190618a55fa6b7cc1e81afefada978ed38d8e8b98bcec96c0f",
     "uid": "VE47OUIXQ",
     "map": "speedrun_enemy_easy",
