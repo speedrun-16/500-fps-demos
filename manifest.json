@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "03b9e04e3486b2190618a55fa6b7cc1e81afefada978ed38d8e8b98bcec96c0f",
+    "uid": "VE47OUIXQ",
+    "map": "speedrun_enemy_easy",
+    "category": 6,
+    "time": 25615,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-16T09:03:11.000Z",
+    "zipFilename": "00025615_STEAM_0_1_771348382_20250916-090311.zip",
+    "path": "speedrun_enemy_easy/00025615_STEAM_0_1_771348382_20250916-090311.zip",
+    "archivedAt": "2025-09-16T12:00:03.092Z"
+  },
+  {
     "demFileHash": "048847c7d52a847c2e8a4699b23f31cc9726150047fd85a3dd4600f3d74efcb5",
     "uid": "JPNBL5R79",
     "map": "speedrun_w00dfun",
