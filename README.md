@@ -9,7 +9,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 1 | 2025-09-15 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-09-16 |
+| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
+| [speedrun_evidenz2](./speedrun_evidenz2) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
@@ -23,5 +25,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **13**
-- Total Demos: **17**
+- Total Maps: **15**
+- Total Demos: **19**
