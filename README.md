@@ -18,7 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-16 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 1 | 2025-09-15 |
+| [speedrun_runners](./speedrun_runners) | 2 | 2025-09-20 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-09-18 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
@@ -27,4 +27,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **16**
-- Total Demos: **22**
+- Total Demos: **23**
