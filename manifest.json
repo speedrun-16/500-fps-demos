@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "5841d91f21f035dbb2b8e501ad5d1bb55f58e2a0a9d3bf49a3d96c2572c19f2e",
+    "uid": "EO60UHU40",
+    "map": "speedrun_easy_v1",
+    "category": 6,
+    "time": 10292,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-24T17:50:48.000Z",
+    "zipFilename": "00010292_STEAM_0_1_771348382_20250924-175048.zip",
+    "path": "speedrun_easy_v1/00010292_STEAM_0_1_771348382_20250924-175048.zip",
+    "archivedAt": "2025-09-25T16:01:11.261Z"
+  },
+  {
+    "demFileHash": "5c4ba20315f21e6390964a6a38866160eb959bf254c0632fb2a96bbf9963619e",
+    "uid": "RY9VZ7EPM",
+    "map": "speedrun_easy_v1",
+    "category": 6,
+    "time": 10403,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-24T17:49:20.000Z",
+    "zipFilename": "00010403_STEAM_0_1_796767048_20250924-174920.zip",
+    "path": "speedrun_easy_v1/00010403_STEAM_0_1_796767048_20250924-174920.zip",
+    "archivedAt": "2025-09-25T16:01:11.261Z"
+  },
+  {
     "demFileHash": "07ccb112bdd82744ed76b09383ee58838b22c005460050a5f0b0d375a6babd20",
     "uid": "TBHGHJMWQ",
     "map": "deathrun_astro",
