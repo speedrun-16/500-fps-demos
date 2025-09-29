@@ -7,6 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
+| [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-20 |
 | [speedrun_chemical](./speedrun_chemical) | 1 | 2025-09-22 |
@@ -34,5 +35,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **24**
-- Total Demos: **35**
+- Total Maps: **25**
+- Total Demos: **36**
