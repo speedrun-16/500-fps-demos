@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "45413646a3d64871d7bdb7ecddd9dedd3ae42097ca2bccb69bddeadb382121a4",
+    "uid": "TIS3BB3AS",
+    "map": "speedrun_wex",
+    "category": 6,
+    "time": 9288,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-11T10:27:21.000Z",
+    "zipFilename": "00009288_STEAM_0_0_35544084_20251011-102721.zip",
+    "path": "speedrun_wex/00009288_STEAM_0_0_35544084_20251011-102721.zip",
+    "archivedAt": "2025-10-11T12:00:00.408Z"
+  },
+  {
     "demFileHash": "5cc53a0d9f676a6b0b22e8748ca10b82c6f65908fd29e06259161fa3ed08f1dc",
     "uid": "M0D5LYX66",
     "map": "speedrun_exort",
