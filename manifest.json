@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "605acaa5ee474a8aa38f4ac37df808d503a7b4a4582a441345e37b9e4cea56f4",
+    "uid": "8QZ9V0U81",
+    "map": "deathrun_w00dfun",
+    "category": 6,
+    "time": 10935,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-12T10:33:52.000Z",
+    "zipFilename": "00010935_STEAM_0_0_35544084_20251012-103352.zip",
+    "path": "deathrun_w00dfun/00010935_STEAM_0_0_35544084_20251012-103352.zip",
+    "archivedAt": "2025-10-12T12:00:04.808Z"
+  },
+  {
+    "demFileHash": "70cd953e16bc732e47069ecc7e21ca0725dae42d9f8eab4158bb7ece2b533bc4",
+    "uid": "NQVQCRRKF",
+    "map": "de_dust",
+    "category": 6,
+    "time": 7717,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-12T10:37:33.000Z",
+    "zipFilename": "00007717_STEAM_0_0_35544084_20251012-103733.zip",
+    "path": "de_dust/00007717_STEAM_0_0_35544084_20251012-103733.zip",
+    "archivedAt": "2025-10-12T12:00:04.808Z"
+  },
+  {
+    "demFileHash": "e3d1a9d366356610ea7b934d5b36f0cdf39e99220891c7f49d3f9e738540aee5",
+    "uid": "28DDSPMN9",
+    "map": "speedrun_element",
+    "category": 6,
+    "time": 10356,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-12T09:18:58.000Z",
+    "zipFilename": "00010356_STEAM_0_0_35544084_20251012-091858.zip",
+    "path": "speedrun_element/00010356_STEAM_0_0_35544084_20251012-091858.zip",
+    "archivedAt": "2025-10-12T12:00:04.808Z"
+  },
+  {
+    "demFileHash": "a06b543661183cc0fad3906e6c5e9a079ae0e6b2f7364e326bfdfb25088c620a",
+    "uid": "M7P6R9UX9",
+    "map": "speedrun_meowkatoz2",
+    "category": 6,
+    "time": 10254,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-12T08:53:18.000Z",
+    "zipFilename": "00010254_STEAM_0_0_35544084_20251012-085318.zip",
+    "path": "speedrun_meowkatoz2/00010254_STEAM_0_0_35544084_20251012-085318.zip",
+    "archivedAt": "2025-10-12T12:00:04.808Z"
+  },
+  {
     "demFileHash": "45413646a3d64871d7bdb7ecddd9dedd3ae42097ca2bccb69bddeadb382121a4",
     "uid": "TIS3BB3AS",
     "map": "speedrun_wex",

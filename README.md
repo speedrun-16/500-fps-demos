@@ -6,16 +6,18 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [de_dust](./de_dust) | 1 | 2025-10-12 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2025-09-20 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 2 | 2025-10-12 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-30 |
 | [speedrun_chemical](./speedrun_chemical) | 2 | 2025-09-30 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 1 | 2025-09-15 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-09-28 |
+| [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-09-16 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
@@ -25,6 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
+| [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 1 | 2025-10-12 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-21 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 6 | 2025-10-01 |
@@ -39,5 +42,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **29**
-- Total Demos: **43**
+- Total Maps: **32**
+- Total Demos: **47**
