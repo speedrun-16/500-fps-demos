@@ -26,7 +26,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2025-09-15 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 1 | 2025-10-12 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-21 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
@@ -43,4 +43,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **32**
-- Total Demos: **47**
+- Total Demos: **48**
