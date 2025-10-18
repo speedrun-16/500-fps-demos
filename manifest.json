@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "72463c0642e97dda81a8c522c019d0b598687388442436ef11b74f9766b1f51b",
+    "uid": "6AXP0IJ3J",
+    "map": "speedrun_freedom",
+    "category": 6,
+    "time": 11406,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-18T10:23:58.000Z",
+    "zipFilename": "00011406_STEAM_0_0_35544084_20251018-102358.zip",
+    "path": "speedrun_freedom/00011406_STEAM_0_0_35544084_20251018-102358.zip",
+    "archivedAt": "2025-10-18T12:00:00.410Z"
+  },
+  {
     "demFileHash": "34c2f5881b720ce46230279ec05efbd7177d14c30f9bcb0d4ee9e0ee796c0449",
     "uid": "JYOTUSBMX",
     "map": "speedrun_eastwood",
