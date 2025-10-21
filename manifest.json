@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "13d9b14a33d7abb1d30fb38a5b37f1edf9f97ad0933d196a3b7beb99c039195c",
+    "uid": "WB10TAJOD",
+    "map": "speedrun_calisto",
+    "category": 6,
+    "time": 12643,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-10-20T18:13:38.000Z",
+    "zipFilename": "00012643_STEAM_0_0_35544084_20251020-181338.zip",
+    "path": "speedrun_calisto/00012643_STEAM_0_0_35544084_20251020-181338.zip",
+    "archivedAt": "2025-10-21T00:00:12.156Z"
+  },
+  {
     "demFileHash": "157d129c6028dd8e02887fe778826e70ba0ad6700ed1cc433c2dae891805a161",
     "uid": "4L0WP5878",
     "map": "deathrun_forest2_final",
