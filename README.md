@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [de_dust](./de_dust) | 1 | 2025-10-12 |
+| [de_dust](./de_dust) | 2 | 2025-10-23 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
@@ -28,6 +28,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidenz2](./speedrun_evidenz2) | 2 | 2025-10-14 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_freedom](./speedrun_freedom) | 1 | 2025-10-18 |
+| [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
@@ -48,5 +49,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **38**
-- Total Demos: **57**
+- Total Maps: **39**
+- Total Demos: **59**
