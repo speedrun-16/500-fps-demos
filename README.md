@@ -49,10 +49,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-09-21 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-11 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-14 |
+| [speedrun_woah2](./speedrun_woah2) | 1 | 2025-11-02 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **44**
-- Total Demos: **64**
+- Total Maps: **45**
+- Total Demos: **65**

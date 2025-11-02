@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "2d7523eefbdb230ebb6c3adc141d776d85ab405a77490f3d2254e6cf3ed5031a",
+    "uid": "1K3AXPVDF",
+    "map": "speedrun_woah2",
+    "category": 6,
+    "time": 12530,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-02T15:42:22.000Z",
+    "zipFilename": "00012530_STEAM_0_0_35544084_20251102-154222.zip",
+    "path": "speedrun_woah2/00012530_STEAM_0_0_35544084_20251102-154222.zip",
+    "archivedAt": "2025-11-02T18:00:04.626Z"
+  },
+  {
     "demFileHash": "4508614fbd89a4034dd7dfd209225184fd4d03b2a2c5fa75068e6cd367243b54",
     "uid": "9EAOKG1UV",
     "map": "deathrun_w00dfun",
