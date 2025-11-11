@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e8f37c64fcf465bae865c3bc6be4e7273be88a945723c12088f8f2ffa8bcf488",
+    "uid": "HSFKAHSNT",
+    "map": "speedrun_1000fps_battle",
+    "category": 6,
+    "time": 7291,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-11T00:11:23.000Z",
+    "zipFilename": "00007291_STEAM_0_1_447056338_20251111-001123.zip",
+    "path": "speedrun_1000fps_battle/00007291_STEAM_0_1_447056338_20251111-001123.zip",
+    "archivedAt": "2025-11-11T06:00:19.920Z"
+  },
+  {
     "demFileHash": "4d7ab1c6bcd550ac20ee6af53a9d1d04c50a36ce9a2c73e3c9228434f446419a",
     "uid": "81MVMT8A9",
     "map": "speedrun_sudip",
