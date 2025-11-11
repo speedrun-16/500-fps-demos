@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "17623657c993eb6b3b173cfcdc216f78807977b595ef23f8e80fbac4f3483194",
+    "uid": "VL5WDQQA0",
+    "map": "speedrun_bieber",
+    "category": 6,
+    "time": 13528,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-11T10:22:57.000Z",
+    "zipFilename": "00013528_STEAM_0_1_447056338_20251111-102257.zip",
+    "path": "speedrun_bieber/00013528_STEAM_0_1_447056338_20251111-102257.zip",
+    "archivedAt": "2025-11-11T12:00:22.603Z"
+  },
+  {
+    "demFileHash": "1e796605452f23413a34dbf5001315d49fca8a6f9a11718c762bb80c16c2bf7c",
+    "uid": "HNI8MXQRS",
+    "map": "deathrun_forest",
+    "category": 6,
+    "time": 17113,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-11T11:07:45.000Z",
+    "zipFilename": "00017113_STEAM_0_0_35544084_20251111-110745.zip",
+    "path": "deathrun_forest/00017113_STEAM_0_0_35544084_20251111-110745.zip",
+    "archivedAt": "2025-11-11T12:00:22.603Z"
+  },
+  {
+    "demFileHash": "6dc8f54a201c2c8299510d3ad43bfcf39efb09433cd895fda06a22488baf96a9",
+    "uid": "WWN4GP61Y",
+    "map": "speedrun_bieber_maxfps",
+    "category": 6,
+    "time": 10988,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-11T10:31:38.000Z",
+    "zipFilename": "00010988_STEAM_0_1_447056338_20251111-103138.zip",
+    "path": "speedrun_bieber_maxfps/00010988_STEAM_0_1_447056338_20251111-103138.zip",
+    "archivedAt": "2025-11-11T12:00:22.603Z"
+  },
+  {
+    "demFileHash": "161a51c5ad10848087effccfb0e199b5c7734e2b2636044f1b6137a5bfdb46ce",
+    "uid": "AJZRBX8J9",
+    "map": "speedrun_confusion3",
+    "category": 6,
+    "time": 13957,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-11T11:21:35.000Z",
+    "zipFilename": "00013957_STEAM_0_0_35544084_20251111-112135.zip",
+    "path": "speedrun_confusion3/00013957_STEAM_0_0_35544084_20251111-112135.zip",
+    "archivedAt": "2025-11-11T12:00:22.603Z"
+  },
+  {
+    "demFileHash": "cf93be82a699d5120d6949fd5af7c19f94eeaa8b41852dfce75823401b2e227c",
+    "uid": "MN1WNOD8H",
+    "map": "speedrun_bieber_maxfps",
+    "category": 6,
+    "time": 11904,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-11T10:42:33.000Z",
+    "zipFilename": "00011904_STEAM_0_0_35544084_20251111-104233.zip",
+    "path": "speedrun_bieber_maxfps/00011904_STEAM_0_0_35544084_20251111-104233.zip",
+    "archivedAt": "2025-11-11T12:00:22.603Z"
+  },
+  {
     "demFileHash": "e8f37c64fcf465bae865c3bc6be4e7273be88a945723c12088f8f2ffa8bcf488",
     "uid": "HSFKAHSNT",
     "map": "speedrun_1000fps_battle",

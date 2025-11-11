@@ -10,14 +10,17 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-04 |
+| [deathrun_forest](./deathrun_forest) | 1 | 2025-11-11 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 2 | 2025-11-02 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2025-11-11 |
+| [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
+| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 2 | 2025-11-11 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-10-20 |
 | [speedrun_chemical](./speedrun_chemical) | 4 | 2025-10-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
-| [speedrun_confusion3](./speedrun_confusion3) | 1 | 2025-09-15 |
+| [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-09-28 |
@@ -61,5 +64,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **51**
-- Total Demos: **72**
+- Total Maps: **54**
+- Total Demos: **77**
