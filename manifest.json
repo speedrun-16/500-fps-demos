@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "eb4c5d9bbdb7c622f013033b9087930c686a3208459e7400e733c48af659be84",
+    "uid": "Q4HNQVQVJ",
+    "map": "speedrun_kolor_v2",
+    "category": 6,
+    "time": 16566,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-12T13:29:10.000Z",
+    "zipFilename": "00016566_STEAM_0_0_35544084_20251112-132910.zip",
+    "path": "speedrun_kolor_v2/00016566_STEAM_0_0_35544084_20251112-132910.zip",
+    "archivedAt": "2025-11-12T18:00:01.125Z"
+  },
+  {
+    "demFileHash": "9d55b5888f5a29bec82bb1aab68c91b0644dcf90cb93fdd619d1a89adc57cdbf",
+    "uid": "3YVAMUYNL",
+    "map": "deathrun_herb",
+    "category": 6,
+    "time": 14021,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-12T13:21:24.000Z",
+    "zipFilename": "00014021_STEAM_0_0_35544084_20251112-132124.zip",
+    "path": "deathrun_herb/00014021_STEAM_0_0_35544084_20251112-132124.zip",
+    "archivedAt": "2025-11-12T18:00:01.125Z"
+  },
+  {
+    "demFileHash": "bd68c98b3c216b39eeca90bc510ccccf763016f8d23aa4f9909d383dda399d5e",
+    "uid": "D90I707EH",
+    "map": "speedrun_raduga_fix",
+    "category": 6,
+    "time": 26497,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-12T13:41:01.000Z",
+    "zipFilename": "00026497_STEAM_0_0_35544084_20251112-134101.zip",
+    "path": "speedrun_raduga_fix/00026497_STEAM_0_0_35544084_20251112-134101.zip",
+    "archivedAt": "2025-11-12T18:00:01.125Z"
+  },
+  {
+    "demFileHash": "a9bc1d6f3560aef65302fa54501a2d66bae08864694e2391cdc2346a11c9bb0e",
+    "uid": "QFNF5CT5C",
+    "map": "speedrun_2010",
+    "category": 6,
+    "time": 10645,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-12T13:54:49.000Z",
+    "zipFilename": "00010645_STEAM_0_0_35544084_20251112-135449.zip",
+    "path": "speedrun_2010/00010645_STEAM_0_0_35544084_20251112-135449.zip",
+    "archivedAt": "2025-11-12T18:00:01.125Z"
+  },
+  {
     "demFileHash": "f8656670148d079621f487035668e7999255437475844b73f1c508850d30da89",
     "uid": "1OQ54AE9X",
     "map": "speedrun_easy_v1_remake_kaniel",
