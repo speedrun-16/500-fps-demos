@@ -25,7 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-09-28 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-11-14 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2025-11-11 |
 | [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-09-16 |
@@ -50,7 +50,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2025-10-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-11-09 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 6 | 2025-10-01 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-11-01 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-10-26 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-22 |
@@ -72,4 +72,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **61**
-- Total Demos: **84**
+- Total Demos: **85**
