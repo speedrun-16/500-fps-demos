@@ -14,6 +14,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-11-11 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
+| [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 2 | 2025-11-02 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2025-11-11 |
@@ -75,5 +76,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **65**
-- Total Demos: **89**
+- Total Maps: **66**
+- Total Demos: **90**

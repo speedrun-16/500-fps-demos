@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e23412673aa0d45947e0717f283b9a2144f7fbf636c96477e78bb284ed1f79c7",
+    "uid": "RK5YR9JLT",
+    "map": "deathrun_legendcs",
+    "category": 6,
+    "time": 14825,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-16T00:03:56.000Z",
+    "zipFilename": "00014825_STEAM_0_0_35544084_20251116-000356.zip",
+    "path": "deathrun_legendcs/00014825_STEAM_0_0_35544084_20251116-000356.zip",
+    "archivedAt": "2025-11-16T06:00:05.504Z"
+  },
+  {
     "demFileHash": "d9500c65f22db1033d72d31a987050a5ed5c7c612a76466edff3237b3b1b359b",
     "uid": "I09MREY17",
     "map": "cs_militia",
