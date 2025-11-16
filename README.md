@@ -24,6 +24,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-10-20 |
 | [speedrun_cheeky](./speedrun_cheeky) | 1 | 2025-11-15 |
 | [speedrun_chemical](./speedrun_chemical) | 4 | 2025-10-16 |
+| [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
@@ -40,6 +41,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
 | [speedrun_forest_maxfps](./speedrun_forest_maxfps) | 1 | 2025-11-13 |
+| [speedrun_fpsmeowkatoz](./speedrun_fpsmeowkatoz) | 1 | 2025-11-16 |
 | [speedrun_freedom](./speedrun_freedom) | 1 | 2025-10-18 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
@@ -49,13 +51,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kolor_v2](./speedrun_kolor_v2) | 1 | 2025-11-12 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 1 | 2025-10-12 |
+| [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-21 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2025-10-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-11-09 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-11-01 |
-| [speedrun_r3x](./speedrun_r3x) | 1 | 2025-10-26 |
+| [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-22 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
@@ -76,5 +79,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **66**
-- Total Demos: **90**
+- Total Maps: **69**
+- Total Demos: **93**
