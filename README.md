@@ -8,6 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 1 | 2025-11-15 |
 | [de_dust](./de_dust) | 2 | 2025-10-23 |
+| [de_vertigo](./de_vertigo) | 1 | 2025-11-17 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 1 | 2025-11-17 |
@@ -72,6 +73,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
+| [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
@@ -85,5 +87,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **75**
-- Total Demos: **99**
+- Total Maps: **77**
+- Total Demos: **101**

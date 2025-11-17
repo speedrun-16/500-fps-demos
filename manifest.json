@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "3939414c9161bf521931879ee2d189812b832cab20dea0ca8ff4cce49fd761cb",
+    "uid": "D51G4T2JA",
+    "map": "de_vertigo",
+    "category": 6,
+    "time": 6563,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-17T12:47:16.000Z",
+    "zipFilename": "00006563_STEAM_0_0_35544084_20251117-124716.zip",
+    "path": "de_vertigo/00006563_STEAM_0_0_35544084_20251117-124716.zip",
+    "archivedAt": "2025-11-17T18:00:05.556Z"
+  },
+  {
+    "demFileHash": "755b12821463bf999682438594f96982a8ab3ceda065fb03637883c7516b4656",
+    "uid": "CJ455YA2F",
+    "map": "speedrun_sudsup",
+    "category": 6,
+    "time": 12126,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-17T13:06:40.000Z",
+    "zipFilename": "00012126_STEAM_0_0_35544084_20251117-130640.zip",
+    "path": "speedrun_sudsup/00012126_STEAM_0_0_35544084_20251117-130640.zip",
+    "archivedAt": "2025-11-17T18:00:05.556Z"
+  },
+  {
     "demFileHash": "ed188e574ef38b282e9305e233088d6020568240deea0fe82c9cc9fa29e9eb04",
     "uid": "JTOOI419Z",
     "map": "deathrun_dust2010",
