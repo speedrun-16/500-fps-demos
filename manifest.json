@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "45063af20aa6bb623a97073f5413446dbaa07e815acd8298d123c492e8f38f66",
+    "uid": "BRJ3PDIC6",
+    "map": "speedrun_several_trilogy",
+    "category": 6,
+    "time": 11693,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-20T12:48:27.000Z",
+    "zipFilename": "00011693_STEAM_0_0_35544084_20251120-124827.zip",
+    "path": "speedrun_several_trilogy/00011693_STEAM_0_0_35544084_20251120-124827.zip",
+    "archivedAt": "2025-11-20T18:00:05.533Z"
+  },
+  {
+    "demFileHash": "24f86fa19288bc1d6f9015ce5465ddb3b9e29a74d72f9d1bd1da6fd832ed0da8",
+    "uid": "Q8D5LK2ZJ",
+    "map": "deathrun_batalia",
+    "category": 6,
+    "time": 10133,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-20T12:45:16.000Z",
+    "zipFilename": "00010133_STEAM_0_0_35544084_20251120-124516.zip",
+    "path": "deathrun_batalia/00010133_STEAM_0_0_35544084_20251120-124516.zip",
+    "archivedAt": "2025-11-20T18:00:05.533Z"
+  },
+  {
+    "demFileHash": "ae671c97ca8eb19d272e22c4ee01d7d345bfa8ef499b205d6572ce361d1e6477",
+    "uid": "JQV79Y5P7",
+    "map": "deathrun_w00dfun",
+    "category": 6,
+    "time": 9764,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-20T17:59:02.000Z",
+    "zipFilename": "00009764_STEAM_0_1_447056338_20251120-175902.zip",
+    "path": "deathrun_w00dfun/00009764_STEAM_0_1_447056338_20251120-175902.zip",
+    "archivedAt": "2025-11-20T18:00:05.533Z"
+  },
+  {
     "demFileHash": "f5a555e4e6235bd0b6b054160a4dabc1b459c53d3d6d362bc64b8042db9f0a9f",
     "uid": "YLJAFHD2G",
     "map": "speedrun_1000fps_battle",

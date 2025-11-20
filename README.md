@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust](./de_dust) | 2 | 2025-10-23 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-11-17 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
+| [deathrun_batalia](./deathrun_batalia) | 1 | 2025-11-20 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 1 | 2025-11-17 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-04 |
@@ -18,7 +19,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 2 | 2025-11-02 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-11-19 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
@@ -70,6 +71,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_runners](./speedrun_runners) | 2 | 2025-09-20 |
 | [speedrun_scarlet](./speedrun_scarlet) | 1 | 2025-11-15 |
+| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-20 |
 | [speedrun_shust](./speedrun_shust) | 1 | 2025-11-17 |
 | [speedrun_skull_bronze](./speedrun_skull_bronze) | 1 | 2025-10-25 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
@@ -89,5 +91,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **79**
-- Total Demos: **105**
+- Total Maps: **81**
+- Total Demos: **108**
