@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b6a267f0424f754697d12443092026f1546721735cfe6f2a38f2eb2503a2607f",
+    "uid": "GZE2HBHMV",
+    "map": "speedrun_Tibeck",
+    "category": 6,
+    "time": 10734,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-23T12:28:02.000Z",
+    "zipFilename": "00010734_STEAM_0_0_35544084_20251123-122802.zip",
+    "path": "speedrun_Tibeck/00010734_STEAM_0_0_35544084_20251123-122802.zip",
+    "archivedAt": "2025-11-23T18:00:05.278Z"
+  },
+  {
     "demFileHash": "04da2f503e42a97bf15f3659fe7601ab74808c0394cfdcd4a7b4a9c6fd54e241",
     "uid": "NLSH7H5SF",
     "map": "speedrun_sunnies_short",

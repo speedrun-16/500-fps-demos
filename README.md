@@ -82,6 +82,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
+| [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
@@ -94,5 +95,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **84**
-- Total Demos: **112**
+- Total Maps: **85**
+- Total Demos: **113**
