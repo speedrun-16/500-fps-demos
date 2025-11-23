@@ -30,6 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
+| [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-23 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-11-14 |
@@ -48,12 +49,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_freedom](./speedrun_freedom) | 1 | 2025-10-18 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
-| [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-09 |
+| [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
 | [speedrun_kolor_v2](./speedrun_kolor_v2) | 1 | 2025-11-12 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-11-17 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
+| [speedrun_megaz](./speedrun_megaz) | 1 | 2025-11-23 |
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2025-11-20 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
@@ -78,6 +80,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
+| [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
@@ -91,5 +94,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **81**
-- Total Demos: **109**
+- Total Maps: **84**
+- Total Demos: **112**
