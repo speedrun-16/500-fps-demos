@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "1d68c9d671efa1299695afc6e16131b0633324f1e5cdd82029a8709f2084b25a",
+    "uid": "CH6PXNETS",
+    "map": "speedrun_1000fps_battle",
+    "category": 6,
+    "time": 7595,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-29T15:12:27.000Z",
+    "zipFilename": "00007595_STEAM_0_1_926467834_20251129-151227.zip",
+    "path": "speedrun_1000fps_battle/00007595_STEAM_0_1_926467834_20251129-151227.zip",
+    "archivedAt": "2025-11-29T18:00:06.126Z"
+  },
+  {
     "demFileHash": "b6a267f0424f754697d12443092026f1546721735cfe6f2a38f2eb2503a2607f",
     "uid": "GZE2HBHMV",
     "map": "speedrun_Tibeck",
