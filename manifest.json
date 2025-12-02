@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ab72172d1e7181a1863bd3fc78b817a5fe32f509e5758ac7254f2d7012312553",
+    "uid": "O99EXDGFG",
+    "map": "speedrun_retro_pro",
+    "category": 6,
+    "time": 10500,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-12-02T14:00:12.000Z",
+    "zipFilename": "00010500_STEAM_0_0_35544084_20251202-140012.zip",
+    "path": "speedrun_retro_pro/00010500_STEAM_0_0_35544084_20251202-140012.zip",
+    "archivedAt": "2025-12-02T18:00:11.283Z"
+  },
+  {
     "demFileHash": "1d68c9d671efa1299695afc6e16131b0633324f1e5cdd82029a8709f2084b25a",
     "uid": "CH6PXNETS",
     "map": "speedrun_1000fps_battle",
