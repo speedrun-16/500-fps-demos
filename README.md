@@ -72,7 +72,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2025-12-02 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 2 | 2025-09-20 |
+| [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
 | [speedrun_scarlet](./speedrun_scarlet) | 1 | 2025-11-15 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-20 |
 | [speedrun_shust](./speedrun_shust) | 1 | 2025-11-17 |
