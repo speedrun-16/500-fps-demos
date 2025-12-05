@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2025-11-20 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
-| [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-21 |
+| [speedrun_neocist](./speedrun_neocist) | 2 | 2025-12-04 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-11-17 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2025-10-16 |
@@ -84,6 +84,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
+| [speedrun_tr](./speedrun_tr) | 1 | 2025-12-04 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
@@ -96,5 +97,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **86**
-- Total Demos: **115**
+- Total Maps: **87**
+- Total Demos: **117**
