@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "a2f2fcdc16f0f7f474abda4a597eb3b486f12dfebca1ebf78e01638d82103d56",
+    "uid": "0TC2B6P0U",
+    "map": "speedrun_enbo",
+    "category": 6,
+    "time": 15768,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-10T16:20:37.000Z",
+    "zipFilename": "00015768_STEAM_0_1_796767048_20251210-162037.zip",
+    "path": "speedrun_enbo/00015768_STEAM_0_1_796767048_20251210-162037.zip",
+    "archivedAt": "2025-12-10T18:00:00.781Z"
+  },
+  {
     "demFileHash": "65d2d1a62b46ec77efb22e102a3e771e8d9766a72860fa0ad1f44388e8b6420e",
     "uid": "SPOOOK3U0",
     "map": "speedrun_tr",
