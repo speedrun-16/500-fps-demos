@@ -33,7 +33,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-23 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-11-14 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-12-13 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2025-11-11 |
 | [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
@@ -89,7 +89,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-09-21 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-13 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-11 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-14 |
 | [speedrun_woah2](./speedrun_woah2) | 1 | 2025-11-02 |
