@@ -18,6 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-12-14 |
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
+| [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-12-17 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 5 | 2025-11-29 |
@@ -53,6 +54,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
+| [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-12-17 |
 | [speedrun_kolor_v2](./speedrun_kolor_v2) | 1 | 2025-11-12 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-11-17 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
@@ -88,6 +90,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-12-16 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-12-04 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
+| [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2025-12-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-13 |
@@ -99,5 +102,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **89**
-- Total Demos: **119**
+- Total Maps: **92**
+- Total Demos: **122**
