@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e70427ee8ee743859a144a62bae03c8d750887651920446cfc0fc1f58a916209",
+    "uid": "EXQU01TCN",
+    "map": "speedrun_tarantula",
+    "category": 6,
+    "time": 17526,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-12-26T10:39:41.000Z",
+    "zipFilename": "00017526_STEAM_0_0_35544084_20251226-103941.zip",
+    "path": "speedrun_tarantula/00017526_STEAM_0_0_35544084_20251226-103941.zip",
+    "archivedAt": "2025-12-26T12:00:00.486Z"
+  },
+  {
     "demFileHash": "4a5e9b7b82eb32cf07395081948a12fc1dff36a2ac592399f79bb3f6f89b1c78",
     "uid": "BJ0ZY7TG5",
     "map": "speedrun_bunnyrace_beta2",
