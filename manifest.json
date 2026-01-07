@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "2c7ee0f7130ccc32c8833598550decc031687017c57030781d3d549dba906232",
+    "uid": "CMC0EKFBZ",
+    "map": "speedrun_dust2_kaniel",
+    "category": 6,
+    "time": 12524,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-07T14:05:58.000Z",
+    "zipFilename": "00012524_STEAM_0_0_35544084_20260107-140558.zip",
+    "path": "speedrun_dust2_kaniel/00012524_STEAM_0_0_35544084_20260107-140558.zip",
+    "archivedAt": "2026-01-07T18:00:06.618Z"
+  },
+  {
     "demFileHash": "fef14e896dad43473bb1eb5e5f0aa0efa9db8268e64738d5a7273baba131fd47",
     "uid": "S8GXJHKO0",
     "map": "speedrun_greywill",
