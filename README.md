@@ -20,6 +20,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-12-17 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
+| [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 5 | 2025-11-29 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
@@ -34,6 +35,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
+| [speedrun_crate](./speedrun_crate) | 1 | 2026-01-08 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-23 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
@@ -64,7 +66,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-11-17 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
 | [speedrun_megaz](./speedrun_megaz) | 1 | 2025-11-23 |
-| [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2025-11-20 |
+| [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2026-01-08 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-12-04 |
@@ -77,7 +79,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-11-19 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-16 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-22 |
+| [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2026-01-08 |
 | [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2025-12-20 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2025-12-02 |
@@ -102,6 +104,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-21 |
+| [speedrun_wander](./speedrun_wander) | 1 | 2026-01-08 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-11 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-14 |
 | [speedrun_woah2](./speedrun_woah2) | 1 | 2025-11-02 |
@@ -110,5 +113,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **100**
-- Total Demos: **131**
+- Total Maps: **103**
+- Total Demos: **135**
