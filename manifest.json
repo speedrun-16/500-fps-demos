@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "57fcaf3d748925d3b8139e931e1e35c79d52e516ad851ac63761a923c9d2b779",
+    "uid": "LHEJBSZX9",
+    "map": "speedrun_several",
+    "category": 6,
+    "time": 8610,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-10T10:46:45.000Z",
+    "zipFilename": "00008610_STEAM_0_0_35544084_20260110-104645.zip",
+    "path": "speedrun_several/00008610_STEAM_0_0_35544084_20260110-104645.zip",
+    "archivedAt": "2026-01-10T12:00:00.558Z"
+  },
+  {
     "demFileHash": "4d3fa0ed1e71ecd28154ab2c9a07345780a7343befa028f15aed219e4c852794",
     "uid": "PVDKQQ3UB",
     "map": "deathrun_temple2",
