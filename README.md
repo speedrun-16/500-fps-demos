@@ -57,6 +57,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_freedom](./speedrun_freedom) | 1 | 2025-10-18 |
 | [speedrun_funeral](./speedrun_funeral) | 1 | 2026-01-11 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
+| [speedrun_getdown](./speedrun_getdown) | 1 | 2026-01-13 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_greywill](./speedrun_greywill) | 1 | 2026-01-02 |
@@ -115,5 +116,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **105**
-- Total Demos: **137**
+- Total Maps: **106**
+- Total Demos: **138**
