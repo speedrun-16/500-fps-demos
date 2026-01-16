@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "66208bb993f2e2a186a583006a366d857eaf77ee6fe3647da1f53ee7301bb0d5",
+    "uid": "AKEXRVS24",
+    "map": "speedrun_stripes_red",
+    "category": 6,
+    "time": 12337,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-16T12:08:55.000Z",
+    "zipFilename": "00012337_STEAM_0_0_35544084_20260116-120855.zip",
+    "path": "speedrun_stripes_red/00012337_STEAM_0_0_35544084_20260116-120855.zip",
+    "archivedAt": "2026-01-16T18:00:00.619Z"
+  },
+  {
     "demFileHash": "6a43b8e73dbfa901b6e6b7bc0cde4a3979bc30d2b7df312373d422656b329360",
     "uid": "VRE9QS1HU",
     "map": "speedrun_triskelion_ruins_beta2",
