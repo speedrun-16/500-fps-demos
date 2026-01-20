@@ -57,7 +57,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_freedom](./speedrun_freedom) | 1 | 2025-10-18 |
 | [speedrun_funeral](./speedrun_funeral) | 1 | 2026-01-11 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
-| [speedrun_getdown](./speedrun_getdown) | 1 | 2026-01-13 |
+| [speedrun_getdown](./speedrun_getdown) | 1 | 2026-01-20 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_greywill](./speedrun_greywill) | 1 | 2026-01-02 |
@@ -77,7 +77,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2025-10-16 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-11-09 |
-| [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2025-12-11 |
+| [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2026-01-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-11-19 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-16 |
