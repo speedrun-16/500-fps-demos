@@ -94,7 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_shust](./speedrun_shust) | 1 | 2025-11-17 |
 | [speedrun_skull_bronze](./speedrun_skull_bronze) | 1 | 2025-10-25 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
-| [speedrun_sqn](./speedrun_sqn) | 1 | 2025-11-15 |
+| [speedrun_sqn](./speedrun_sqn) | 1 | 2026-01-22 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2026-01-16 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
