@@ -22,7 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-01-23 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-01-24 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-12-24 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
@@ -76,7 +76,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-11-17 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-01-22 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2025-11-09 |
+| [speedrun_phe3](./speedrun_phe3) | 1 | 2026-01-24 |
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2026-01-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-20 |
@@ -93,7 +93,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-20 |
 | [speedrun_shust](./speedrun_shust) | 1 | 2025-11-17 |
 | [speedrun_skull_bronze](./speedrun_skull_bronze) | 1 | 2025-10-25 |
-| [speedrun_solitude](./speedrun_solitude) | 1 | 2025-09-15 |
+| [speedrun_solitude](./speedrun_solitude) | 2 | 2026-01-24 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2026-01-22 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2026-01-16 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
@@ -120,4 +120,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **109**
-- Total Demos: **144**
+- Total Demos: **145**
