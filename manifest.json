@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "bafe87f79a74703152c0398b8f69a116a64ea07b1a58bd817b55d4c58b9d15c2",
+    "uid": "BS3N91J87",
+    "map": "speedrun_arc_maxfps",
+    "category": 6,
+    "time": 18225,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-24T19:06:57.000Z",
+    "zipFilename": "00018225_STEAM_0_0_35544084_20260124-190657.zip",
+    "path": "speedrun_arc_maxfps/00018225_STEAM_0_0_35544084_20260124-190657.zip",
+    "archivedAt": "2026-01-25T00:00:00.674Z"
+  },
+  {
+    "demFileHash": "a9e05e2ea33f5264081575261ed6b5d4dd1815f0158cb0117453faeb5a0d744c",
+    "uid": "B7B4CGNSE",
+    "map": "speedrun_crate",
+    "category": 6,
+    "time": 7798,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-24T19:02:52.000Z",
+    "zipFilename": "00007798_STEAM_0_0_35544084_20260124-190252.zip",
+    "path": "speedrun_crate/00007798_STEAM_0_0_35544084_20260124-190252.zip",
+    "archivedAt": "2026-01-25T00:00:00.674Z"
+  },
+  {
+    "demFileHash": "174fa139ed86e0505f50ab7dec676e4788ef59770eb96d0f83d1ab36ff7ce5d8",
+    "uid": "PIVW13MCK",
+    "map": "deathrun_easy_v1",
+    "category": 6,
+    "time": 11327,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-24T21:30:46.000Z",
+    "zipFilename": "00011327_STEAM_0_0_35544084_20260124-213046.zip",
+    "path": "deathrun_easy_v1/00011327_STEAM_0_0_35544084_20260124-213046.zip",
+    "archivedAt": "2026-01-25T00:00:00.674Z"
+  },
+  {
     "demFileHash": "bbdff81d95d0a6dcc3534b2d257d47c123765f9c693db0fff16f00a5988906ed",
     "uid": "3VGCCOSJX",
     "map": "speedrun_bieber_maxfps",
@@ -213,18 +249,6 @@
     "timestamp": "2026-01-08T16:04:20.000Z",
     "zipFilename": "00011441_STEAM_0_0_35544084_20260108-160420.zip",
     "path": "speedrun_r3x_final/00011441_STEAM_0_0_35544084_20260108-160420.zip",
-    "archivedAt": "2026-01-08T18:00:00.802Z"
-  },
-  {
-    "demFileHash": "e8d93e82fa55c9574c0fd056f49409ab433fb18fac7ac79fc66ad5a1c34fb733",
-    "uid": "B19HX3XU0",
-    "map": "speedrun_crate",
-    "category": 6,
-    "time": 7860,
-    "playerSteamId": "STEAM_0:0:35544084",
-    "timestamp": "2026-01-08T13:16:03.000Z",
-    "zipFilename": "00007860_STEAM_0_0_35544084_20260108-131603.zip",
-    "path": "speedrun_crate/00007860_STEAM_0_0_35544084_20260108-131603.zip",
     "archivedAt": "2026-01-08T18:00:00.802Z"
   },
   {

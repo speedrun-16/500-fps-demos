@@ -13,7 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_batalia](./deathrun_batalia) | 1 | 2025-11-20 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 1 | 2025-11-17 |
-| [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-04 |
+| [deathrun_easy_v1](./deathrun_easy_v1) | 2 | 2026-01-24 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-12-30 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-12-14 |
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
@@ -24,6 +24,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-01-24 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
+| [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-24 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-12-24 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 2 | 2026-01-24 |
@@ -35,7 +36,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
-| [speedrun_crate](./speedrun_crate) | 1 | 2026-01-08 |
+| [speedrun_crate](./speedrun_crate) | 1 | 2026-01-24 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-23 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
@@ -119,5 +120,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **109**
-- Total Demos: **145**
+- Total Maps: **110**
+- Total Demos: **147**
