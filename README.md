@@ -14,6 +14,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 1 | 2025-11-17 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 2 | 2026-01-24 |
+| [deathrun_exelset_4Vendeta](./deathrun_exelset_4Vendeta) | 1 | 2026-01-25 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2025-12-30 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-12-14 |
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
@@ -75,6 +76,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-12-04 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-11-17 |
+| [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-25 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-01-22 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2026-01-24 |
@@ -120,5 +122,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **110**
-- Total Demos: **147**
+- Total Maps: **112**
+- Total Demos: **149**
