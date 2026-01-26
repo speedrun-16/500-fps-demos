@@ -75,14 +75,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-12-04 |
 | [speedrun_noob2](./speedrun_noob2) | 1 | 2025-09-16 |
-| [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-11-17 |
+| [speedrun_obzactz](./speedrun_obzactz) | 1 | 2026-01-26 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-25 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-01-22 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2026-01-24 |
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2026-01-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
-| [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-20 |
+| [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-26 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-01-22 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2026-01-08 |
@@ -99,10 +99,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 2 | 2026-01-24 |
 | [speedrun_sqn](./speedrun_sqn) | 1 | 2026-01-22 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2026-01-16 |
+| [speedrun_stripes_red_max](./speedrun_stripes_red_max) | 1 | 2026-01-26 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
+| [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2026-01-26 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-12-16 |
@@ -122,5 +124,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **112**
-- Total Demos: **149**
+- Total Maps: **114**
+- Total Demos: **151**
