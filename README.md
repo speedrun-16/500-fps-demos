@@ -19,6 +19,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-12-14 |
 | [deathrun_herb](./deathrun_herb) | 1 | 2025-11-12 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
+| [deathrun_low_skill](./deathrun_low_skill) | 1 | 2026-01-27 |
 | [deathrun_oa_easy](./deathrun_oa_easy) | 1 | 2025-12-17 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
@@ -124,5 +125,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **114**
-- Total Demos: **151**
+- Total Maps: **115**
+- Total Demos: **152**

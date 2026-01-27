@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "82fa501d0203136a1a357d260a186cd3d1571f76d17fccc5b8610f99037c2d5d",
+    "uid": "ZAKO277XV",
+    "map": "deathrun_low_skill",
+    "category": 6,
+    "time": 13000,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-01-27T13:16:21.000Z",
+    "zipFilename": "00013000_STEAM_0_0_35544084_20260127-131621.zip",
+    "path": "deathrun_low_skill/00013000_STEAM_0_0_35544084_20260127-131621.zip",
+    "archivedAt": "2026-01-27T18:00:00.444Z"
+  },
+  {
     "demFileHash": "e0e77368e05f1c561cc00574f1fbbde1e3d6ac3ac24feddcd1bc95fee4c8e311",
     "uid": "KRTSYOID6",
     "map": "speedrun_stripes_red_max",
