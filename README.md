@@ -89,6 +89,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2026-01-08 |
 | [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2025-12-20 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
+| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2025-12-02 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
@@ -108,11 +109,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2026-01-26 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
-| [speedrun_TN_f](./speedrun_TN_f) | 1 | 2025-12-16 |
+| [speedrun_TN_f](./speedrun_TN_f) | 1 | 2026-01-29 |
 | [speedrun_tr](./speedrun_tr) | 2 | 2026-01-21 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2025-12-17 |
+| [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-21 |
@@ -125,5 +127,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **115**
-- Total Demos: **152**
+- Total Maps: **117**
+- Total Demos: **154**
