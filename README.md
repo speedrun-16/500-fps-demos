@@ -95,7 +95,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
 | [speedrun_scarlet](./speedrun_scarlet) | 1 | 2025-11-15 |
 | [speedrun_several](./speedrun_several) | 1 | 2026-01-10 |
-| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-20 |
+| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2026-01-31 |
 | [speedrun_shust](./speedrun_shust) | 1 | 2025-11-17 |
 | [speedrun_skull_bronze](./speedrun_skull_bronze) | 1 | 2025-10-25 |
 | [speedrun_solitude](./speedrun_solitude) | 2 | 2026-01-24 |
@@ -103,6 +103,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2026-01-16 |
 | [speedrun_stripes_red_max](./speedrun_stripes_red_max) | 1 | 2026-01-26 |
 | [speedrun_sudip](./speedrun_sudip) | 1 | 2025-11-09 |
+| [speedrun_sudpi](./speedrun_sudpi) | 1 | 2026-01-31 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
@@ -110,7 +111,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2026-01-29 |
-| [speedrun_tr](./speedrun_tr) | 2 | 2026-01-21 |
+| [speedrun_tr](./speedrun_tr) | 3 | 2026-01-31 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2025-12-17 |
@@ -127,5 +128,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **117**
-- Total Demos: **154**
+- Total Maps: **118**
+- Total Demos: **156**
