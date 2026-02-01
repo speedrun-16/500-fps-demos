@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "e3085e3a44deba21a4c8625ffbf4aeeaf6d7c64632f400d65200c631ca1e709d",
+    "uid": "U8G32UKQ0",
+    "map": "speedrun_record",
+    "category": 6,
+    "time": 9747,
+    "playerSteamId": "STEAM_0:1:499355704",
+    "timestamp": "2026-02-01T15:25:02.000Z",
+    "zipFilename": "00009747_STEAM_0_1_499355704_20260201-152502.zip",
+    "path": "speedrun_record/00009747_STEAM_0_1_499355704_20260201-152502.zip",
+    "archivedAt": "2026-02-01T18:00:06.244Z"
+  },
+  {
+    "demFileHash": "6320cfdb389a358bed7ff7eb710d503ac1e1b86d4c34c9ad0ea4ab571a0ad581",
+    "uid": "S89ZFR8TI",
+    "map": "speedrun_mnogostrafe2",
+    "category": 6,
+    "time": 14334,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-01T12:26:02.000Z",
+    "zipFilename": "00014334_STEAM_0_0_35544084_20260201-122602.zip",
+    "path": "speedrun_mnogostrafe2/00014334_STEAM_0_0_35544084_20260201-122602.zip",
+    "archivedAt": "2026-02-01T18:00:06.244Z"
+  },
+  {
+    "demFileHash": "273e752886f3aed970c5e80f465c7164fec2286e91ae84ad57b325ce78b84152",
+    "uid": "QSPNM8AAX",
+    "map": "deathrun_arctic",
+    "category": 6,
+    "time": 10084,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-01T17:47:30.000Z",
+    "zipFilename": "00010084_STEAM_0_0_35544084_20260201-174730.zip",
+    "path": "deathrun_arctic/00010084_STEAM_0_0_35544084_20260201-174730.zip",
+    "archivedAt": "2026-02-01T18:00:06.244Z"
+  },
+  {
+    "demFileHash": "9b467e8151ac3c98ec9ab5f12ee9047748d60b5098a7f7d74adbab226d6c3d29",
+    "uid": "G9RCMAKXT",
+    "map": "speedrun_alcium",
+    "category": 6,
+    "time": 6120,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-01T13:52:10.000Z",
+    "zipFilename": "00006120_STEAM_0_0_35544084_20260201-135210.zip",
+    "path": "speedrun_alcium/00006120_STEAM_0_0_35544084_20260201-135210.zip",
+    "archivedAt": "2026-02-01T18:00:06.244Z"
+  },
+  {
+    "demFileHash": "61ecdd8163500d494c8cb57025eaff1bc4f74be6e294fc5c27ee7e32b0333712",
+    "uid": "4L4QBGKY0",
+    "map": "speedrun_leszcz",
+    "category": 6,
+    "time": 12319,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-01T14:02:19.000Z",
+    "zipFilename": "00012319_STEAM_0_0_35544084_20260201-140219.zip",
+    "path": "speedrun_leszcz/00012319_STEAM_0_0_35544084_20260201-140219.zip",
+    "archivedAt": "2026-02-01T18:00:06.244Z"
+  },
+  {
     "demFileHash": "f5289715320a2f654e2408e7574d97277ddb60f3d1a16afabff4c5944837ba35",
     "uid": "T4QXS2V96",
     "map": "speedrun_joker1",
