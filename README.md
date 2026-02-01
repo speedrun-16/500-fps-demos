@@ -66,6 +66,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_greywill](./speedrun_greywill) | 1 | 2026-01-02 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
+| [speedrun_joker1](./speedrun_joker1) | 1 | 2026-02-01 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-12-17 |
 | [speedrun_kolor_v2](./speedrun_kolor_v2) | 1 | 2025-11-12 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-11-17 |
@@ -115,7 +116,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 3 | 2026-01-31 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
-| [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 1 | 2025-12-17 |
+| [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 2 | 2026-02-01 |
 | [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
@@ -129,5 +130,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **119**
-- Total Demos: **157**
+- Total Maps: **120**
+- Total Demos: **159**

@@ -6,10 +6,11 @@ This directory contains player records achieved in the **500 FPS** category for 
 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
-| #1   | [00:12.733](./00012733_STEAM_0_0_35544084_20251217-091140.zip) | [STEAM_0:0:35544084](https://speedrun16.com/profile/STEAM_0:0:35544084)   | 2025-12-17 09:11:40 |
+| #1   | [00:12.416](./00012416_STEAM_0_1_499355704_20260201-074711.zip) | [STEAM_0:1:499355704](https://speedrun16.com/profile/STEAM_0:1:499355704)   | 2026-02-01 07:47:11 |
+| #2   | [00:12.733](./00012733_STEAM_0_0_35544084_20251217-091140.zip) | [STEAM_0:0:35544084](https://speedrun16.com/profile/STEAM_0:0:35544084)   | 2025-12-17 09:11:40 |
 
 ---
 
 ### Record Summary
-**Record Holder:** [00:12.733](./00012733_STEAM_0_0_35544084_20251217-091140.zip) (by [STEAM_0:0:35544084](https://speedrun16.com/profile/STEAM_0:0:35544084))  
-**Total PBs Archived:** 1
+**Record Holder:** [00:12.416](./00012416_STEAM_0_1_499355704_20260201-074711.zip) (by [STEAM_0:1:499355704](https://speedrun16.com/profile/STEAM_0:1:499355704))  
+**Total PBs Archived:** 2
