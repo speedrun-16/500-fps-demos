@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 1 | 2025-11-15 |
 | [de_dust](./de_dust) | 2 | 2025-10-23 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-11-17 |
+| [deathrun_3h_fix](./deathrun_3h_fix) | 1 | 2026-02-02 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-01 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_batalia](./deathrun_batalia) | 1 | 2025-11-20 |
@@ -42,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
 | [speedrun_crate](./speedrun_crate) | 1 | 2026-01-24 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-23 |
-| [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
+| [speedrun_Domination](./speedrun_Domination) | 2 | 2026-02-02 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-12-13 |
@@ -134,5 +135,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **124**
-- Total Demos: **164**
+- Total Maps: **125**
+- Total Demos: **166**
