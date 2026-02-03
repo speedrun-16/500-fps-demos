@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "5097eda18367e508e6ad7c94390c055be4650c95b5c450a82a7a9d7cfe60b381",
+    "uid": "L7XON10PF",
+    "map": "speedrun_kendavosky",
+    "category": 6,
+    "time": 13952,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-03T17:11:43.000Z",
+    "zipFilename": "00013952_STEAM_0_0_35544084_20260203-171143.zip",
+    "path": "speedrun_kendavosky/00013952_STEAM_0_0_35544084_20260203-171143.zip",
+    "archivedAt": "2026-02-03T18:00:06.463Z"
+  },
+  {
     "demFileHash": "7b31a5eeec1eaf5707928f820bfaed395cbfa3d3dab5ad561b32103d849c692b",
     "uid": "B1MJ9Z1BP",
     "map": "deathrun_3h_fix",
