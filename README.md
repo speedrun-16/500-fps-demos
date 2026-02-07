@@ -70,6 +70,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_greywill](./speedrun_greywill) | 1 | 2026-01-02 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
+| [speedrun_insanity](./speedrun_insanity) | 1 | 2026-02-07 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 2 | 2025-10-12 |
 | [speedrun_joker1](./speedrun_joker1) | 1 | 2026-02-01 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-12-17 |
@@ -139,5 +140,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **129**
-- Total Demos: **170**
+- Total Maps: **130**
+- Total Demos: **171**
