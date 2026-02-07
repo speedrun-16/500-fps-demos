@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "75c90ccd5221cb40f53020e28779cbcaa1d8f6818cfb1ef26fff81027f0f21fa",
+    "uid": "FN1DO9U69",
+    "map": "speedrun_aztec_hd2020",
+    "category": 6,
+    "time": 11728,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-07T11:01:35.000Z",
+    "zipFilename": "00011728_STEAM_0_0_35544084_20260207-110135.zip",
+    "path": "speedrun_aztec_hd2020/00011728_STEAM_0_0_35544084_20260207-110135.zip",
+    "archivedAt": "2026-02-07T12:00:09.698Z"
+  },
+  {
     "demFileHash": "c49b431cce0a8a5d3e1b329c7754ae8c32f350611541044ecf236dde873fcbb0",
     "uid": "1CIN7ZHF5",
     "map": "speedrun_w00dfun_nw",

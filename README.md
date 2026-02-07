@@ -31,6 +31,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2026-02-01 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-24 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-12-24 |
+| [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 2 | 2026-01-24 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 1 | 2025-12-24 |
@@ -138,5 +139,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **128**
-- Total Demos: **169**
+- Total Maps: **129**
+- Total Demos: **170**
