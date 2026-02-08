@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "f3285d36983bc38574d0f108d237a7182326812cb94e246a63aff38fd9634973",
+    "uid": "2U4AE90S0",
+    "map": "speedrun_rondo_alpha-v1",
+    "category": 6,
+    "time": 5136,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-02-08T08:35:43.000Z",
+    "zipFilename": "00005136_STEAM_0_0_35544084_20260208-083543.zip",
+    "path": "speedrun_rondo_alpha-v1/00005136_STEAM_0_0_35544084_20260208-083543.zip",
+    "archivedAt": "2026-02-08T12:00:08.626Z"
+  },
+  {
     "demFileHash": "c1a68666a720addc6dc476956e212a6deba0689416a4f38ee1616667f165e772",
     "uid": "EUPT0CQ79",
     "map": "speedrun_insanity",
