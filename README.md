@@ -10,6 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust](./de_dust) | 2 | 2025-10-23 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-11-17 |
 | [deathrun_3h_fix](./deathrun_3h_fix) | 1 | 2026-02-02 |
+| [deathrun_antic](./deathrun_antic) | 1 | 2026-03-07 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-01 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_batalia](./deathrun_batalia) | 1 | 2025-11-20 |
@@ -143,5 +144,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **133**
-- Total Demos: **174**
+- Total Maps: **134**
+- Total Demos: **175**
