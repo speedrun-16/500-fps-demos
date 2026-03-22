@@ -82,6 +82,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kolor_v2](./speedrun_kolor_v2) | 1 | 2025-11-12 |
 | [speedrun_leszcz](./speedrun_leszcz) | 1 | 2026-02-01 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-11-17 |
+| [speedrun_low_low_tr](./speedrun_low_low_tr) | 1 | 2026-03-22 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
 | [speedrun_megaz](./speedrun_megaz) | 1 | 2025-11-23 |
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2026-01-08 |
@@ -149,5 +150,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **139**
-- Total Demos: **180**
+- Total Maps: **140**
+- Total Demos: **181**
