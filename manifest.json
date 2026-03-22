@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "01b990a71b045062a5bbfc93717a61f34c529f0568d23fa7f17eaa1103ff6e47",
+    "uid": "E9D6BR2ZJ",
+    "map": "speedrun_mountains2020",
+    "category": 6,
+    "time": 21055,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-03-22T09:43:54.000Z",
+    "zipFilename": "00021055_STEAM_0_0_35544084_20260322-094354.zip",
+    "path": "speedrun_mountains2020/00021055_STEAM_0_0_35544084_20260322-094354.zip",
+    "archivedAt": "2026-03-22T12:00:00.467Z"
+  },
+  {
     "demFileHash": "8d6b3ea865fe9c75384d6e7297ff31e2c903099d6fc243f1040fabb8b7aa96cd",
     "uid": "T092C0V7F",
     "map": "speedrun_aurea",
