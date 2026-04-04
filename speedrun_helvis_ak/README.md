@@ -1,0 +1,15 @@
+# speedrun_helvis_ak
+
+This directory contains player records achieved in the **500 FPS** category for this map.
+
+## Leaderboard
+
+| Rank | Best Time | Record Holder | Date                |
+| :--- | :-------- | :------------ | :------------------ |
+| #1   | [00:15.778](./00015778_STEAM_0_0_35544084_20260404-111050.zip) | [STEAM_0:0:35544084](https://speedrun16.com/profile/STEAM_0:0:35544084)   | 2026-04-04 11:10:50 |
+
+---
+
+### Record Summary
+**Record Holder:** [00:15.778](./00015778_STEAM_0_0_35544084_20260404-111050.zip) (by [STEAM_0:0:35544084](https://speedrun16.com/profile/STEAM_0:0:35544084))  
+**Total PBs Archived:** 1

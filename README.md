@@ -29,6 +29,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-03-30 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
+| [speedrun_30min](./speedrun_30min) | 1 | 2026-04-04 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2026-02-01 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-24 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 1 | 2025-12-24 |
@@ -72,6 +73,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-09-17 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 1 | 2025-11-23 |
 | [speedrun_greywill](./speedrun_greywill) | 1 | 2026-01-02 |
+| [speedrun_helvis_ak](./speedrun_helvis_ak) | 1 | 2026-04-04 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2026-03-29 |
 | [speedrun_insane](./speedrun_insane) | 1 | 2026-03-29 |
@@ -90,6 +92,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2026-01-08 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2026-02-01 |
+| [speedrun_mordex](./speedrun_mordex) | 1 | 2026-04-04 |
 | [speedrun_mountains2020](./speedrun_mountains2020) | 1 | 2026-03-22 |
 | [speedrun_ms](./speedrun_ms) | 1 | 2026-03-15 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-12-04 |
@@ -115,6 +118,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2025-12-02 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
+| [speedrun_revived_short](./speedrun_revived_short) | 1 | 2026-04-04 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 1 | 2026-02-08 |
 | [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
 | [speedrun_scarlet](./speedrun_scarlet) | 1 | 2025-11-15 |
@@ -154,5 +158,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **144**
-- Total Demos: **185**
+- Total Maps: **148**
+- Total Demos: **189**
