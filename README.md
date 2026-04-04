@@ -121,6 +121,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_short](./speedrun_revived_short) | 1 | 2026-04-04 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 1 | 2026-02-08 |
 | [speedrun_runners](./speedrun_runners) | 2 | 2025-12-03 |
+| [speedrun_russia](./speedrun_russia) | 1 | 2026-04-04 |
 | [speedrun_scarlet](./speedrun_scarlet) | 1 | 2025-11-15 |
 | [speedrun_several](./speedrun_several) | 1 | 2026-01-10 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2026-01-31 |
@@ -158,5 +159,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **148**
-- Total Demos: **189**
+- Total Maps: **149**
+- Total Demos: **190**

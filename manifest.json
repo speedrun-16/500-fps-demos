@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "540e67120866d6f5fdd6519af1750a395c9bf8283e448cd9ef9dba59e03c071b",
+    "uid": "XT1CXSJHM",
+    "map": "speedrun_russia",
+    "category": 6,
+    "time": 15631,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-04-04T12:58:24.000Z",
+    "zipFilename": "00015631_STEAM_0_0_35544084_20260404-125824.zip",
+    "path": "speedrun_russia/00015631_STEAM_0_0_35544084_20260404-125824.zip",
+    "archivedAt": "2026-04-04T18:00:00.476Z"
+  },
+  {
     "demFileHash": "6031cc93884954fc2c587e36ef97532ed59690a7639ab00e321087bb0f67621b",
     "uid": "XIOK5XMU2",
     "map": "speedrun_helvis_ak",
