@@ -38,7 +38,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 2 | 2026-01-24 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 1 | 2025-12-24 |
-| [speedrun_calisto](./speedrun_calisto) | 1 | 2025-10-20 |
+| [speedrun_calisto](./speedrun_calisto) | 1 | 2026-04-07 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-12-20 |
 | [speedrun_cheeky](./speedrun_cheeky) | 1 | 2025-11-15 |
 | [speedrun_chemical](./speedrun_chemical) | 4 | 2025-10-16 |
