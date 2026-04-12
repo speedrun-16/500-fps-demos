@@ -117,6 +117,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
+| [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2026-04-11 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 1 | 2025-12-02 |
 | [speedrun_revived_odd_max](./speedrun_revived_odd_max) | 1 | 2025-09-15 |
 | [speedrun_revived_short](./speedrun_revived_short) | 1 | 2026-04-04 |
@@ -142,7 +143,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2026-01-29 |
-| [speedrun_tr](./speedrun_tr) | 3 | 2026-01-31 |
+| [speedrun_tr](./speedrun_tr) | 4 | 2026-04-11 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 2 | 2026-02-01 |
@@ -161,5 +162,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **151**
-- Total Demos: **193**
+- Total Maps: **152**
+- Total Demos: **195**
