@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "70e2c8f94f6edd371c9f84db076e12cf10943703aeeb6990e84313608b0b8f76",
+    "uid": "J4EAMPRIG",
+    "map": "speedrun_retro_mini",
+    "category": 6,
+    "time": 9230,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2026-04-19T09:57:12.000Z",
+    "zipFilename": "00009230_STEAM_0_0_35544084_20260419-095712.zip",
+    "path": "speedrun_retro_mini/00009230_STEAM_0_0_35544084_20260419-095712.zip",
+    "archivedAt": "2026-04-19T12:00:11.773Z"
+  },
+  {
     "demFileHash": "1c823299e440e8059cac600b8cf43284f2f72cc1becf39a4dab1406f23be38e8",
     "uid": "OCS2UEXA5",
     "map": "speedrun_alone",
