@@ -43,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2026-04-07 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-12-20 |
 | [speedrun_cheeky](./speedrun_cheeky) | 1 | 2025-11-15 |
-| [speedrun_chemical](./speedrun_chemical) | 4 | 2025-10-16 |
+| [speedrun_chemical](./speedrun_chemical) | 6 | 2026-04-19 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-11-16 |
 | [speedrun_confusion](./speedrun_confusion) | 1 | 2025-09-15 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-11-11 |
@@ -165,4 +165,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **154**
-- Total Demos: **197**
+- Total Demos: **199**
