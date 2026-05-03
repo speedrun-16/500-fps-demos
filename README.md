@@ -27,7 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2026-03-30 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-03 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2026-04-04 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2026-02-01 |
@@ -147,6 +147,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2026-01-29 |
 | [speedrun_tr](./speedrun_tr) | 5 | 2026-04-24 |
+| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 2 | 2026-02-01 |
@@ -165,5 +166,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **155**
-- Total Demos: **204**
+- Total Maps: **156**
+- Total Demos: **206**
