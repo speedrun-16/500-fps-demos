@@ -27,7 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-03 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-04 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2026-04-04 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2026-02-01 |
@@ -53,7 +53,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dream](./speedrun_dream) | 1 | 2026-03-08 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-12-13 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-04 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2025-11-11 |
 | [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
