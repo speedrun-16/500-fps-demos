@@ -14,6 +14,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-01 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_batalia](./deathrun_batalia) | 1 | 2025-11-20 |
+| [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-05-05 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 1 | 2025-11-17 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 2 | 2026-01-24 |
@@ -27,7 +28,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-09-21 |
 | [deathrun_temple2](./deathrun_temple2) | 1 | 2026-01-08 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 3 | 2025-11-20 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-05-04 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-05-05 |
 | [speedrun_2010](./speedrun_2010) | 1 | 2025-11-12 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2026-04-04 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2026-02-01 |
@@ -156,7 +157,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-28 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-21 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-05 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2026-02-06 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2026-01-08 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-11 |
@@ -167,5 +168,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **157**
-- Total Demos: **207**
+- Total Maps: **158**
+- Total Demos: **210**
