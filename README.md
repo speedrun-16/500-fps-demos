@@ -54,7 +54,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dream](./speedrun_dream) | 1 | 2026-03-08 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-01-07 |
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-04 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 4 | 2026-05-06 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2025-11-11 |
 | [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
@@ -143,6 +143,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-17 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 1 | 2025-11-09 |
+| [speedrun_svet](./speedrun_svet) | 1 | 2026-05-06 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2026-01-26 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
@@ -168,5 +169,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **158**
-- Total Demos: **210**
+- Total Maps: **159**
+- Total Demos: **212**
