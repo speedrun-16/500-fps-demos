@@ -39,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-03-20 |
 | [speedrun_aztec_hd2020](./speedrun_aztec_hd2020) | 1 | 2026-02-07 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 2 | 2026-01-24 |
+| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 3 | 2026-05-09 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 1 | 2025-12-24 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2026-04-07 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-12-20 |
@@ -64,6 +64,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-10-04 |
+| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-09 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 2 | 2025-10-14 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
@@ -169,5 +170,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **159**
-- Total Demos: **214**
+- Total Maps: **160**
+- Total Demos: **216**
