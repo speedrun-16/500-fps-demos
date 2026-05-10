@@ -63,8 +63,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_error](./speedrun_error) | 1 | 2025-10-25 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
-| [speedrun_evidens](./speedrun_evidens) | 1 | 2025-10-04 |
-| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-09 |
+| [speedrun_evidens](./speedrun_evidens) | 2 | 2026-05-10 |
+| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 2 | 2025-10-14 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
@@ -111,7 +111,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2026-01-24 |
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2026-01-20 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-11-14 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 8 | 2026-05-10 |
 | [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-02-09 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-26 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-01-22 |
@@ -159,7 +159,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-28 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-05 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-10 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2026-02-06 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2026-01-08 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2025-10-11 |
@@ -171,4 +171,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **160**
-- Total Demos: **217**
+- Total Demos: **219**
