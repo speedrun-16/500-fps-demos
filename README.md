@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_element](./speedrun_element) | 1 | 2025-10-12 |
 | [speedrun_enbo](./speedrun_enbo) | 1 | 2025-12-10 |
 | [speedrun_enbo2](./speedrun_enbo2) | 1 | 2026-02-04 |
-| [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-09-16 |
+| [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2026-05-10 |
 | [speedrun_error](./speedrun_error) | 1 | 2025-10-25 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
@@ -171,4 +171,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **160**
-- Total Demos: **219**
+- Total Demos: **220**
