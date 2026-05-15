@@ -156,7 +156,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_trol](./speedrun_trol) | 1 | 2025-11-17 |
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 2 | 2026-02-01 |
 | [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
-| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-28 |
+| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-05-14 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-10 |
