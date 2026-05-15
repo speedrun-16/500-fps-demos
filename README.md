@@ -94,7 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-11-13 |
 | [speedrun_megaz](./speedrun_megaz) | 2 | 2026-04-30 |
 | [speedrun_meowkatoz2](./speedrun_meowkatoz2) | 2 | 2026-01-08 |
-| [speedrun_miqu](./speedrun_miqu) | 1 | 2025-11-16 |
+| [speedrun_miqu](./speedrun_miqu) | 2 | 2026-05-15 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2026-02-01 |
 | [speedrun_mordex](./speedrun_mordex) | 1 | 2026-04-04 |
 | [speedrun_mountains2020](./speedrun_mountains2020) | 1 | 2026-03-22 |
@@ -109,7 +109,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_opcode_mini](./speedrun_opcode_mini) | 1 | 2026-03-14 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-01-22 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 1 | 2026-01-01 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2026-01-24 |
+| [speedrun_phe3](./speedrun_phe3) | 2 | 2026-05-15 |
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2026-01-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 8 | 2026-05-10 |
 | [speedrun_projetocs2](./speedrun_projetocs2) | 1 | 2026-02-09 |
@@ -171,4 +171,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **160**
-- Total Demos: **220**
+- Total Demos: **222**
