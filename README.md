@@ -63,7 +63,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_error](./speedrun_error) | 1 | 2025-10-25 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 1 | 2025-09-14 |
+| [speedrun_evi_big_long](./speedrun_evi_big_long) | 1 | 2026-05-17 |
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2026-05-10 |
+| [speedrun_evidens_big](./speedrun_evidens_big) | 1 | 2026-05-17 |
 | [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 2 | 2025-10-14 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
@@ -157,6 +159,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ukraine_beta](./speedrun_ukraine_beta) | 2 | 2026-02-01 |
 | [speedrun_utug2](./speedrun_utug2) | 1 | 2026-01-29 |
 | [speedrun_vantara](./speedrun_vantara) | 3 | 2026-05-14 |
+| [speedrun_venem_strafeace](./speedrun_venem_strafeace) | 1 | 2026-05-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 1 | 2025-11-17 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-26 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-10 |
@@ -170,5 +173,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **160**
-- Total Demos: **222**
+- Total Maps: **163**
+- Total Demos: **225**
