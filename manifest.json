@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7c1ce394896c98241cc3640663cf906aa2ee1ef466ec6024cd4472b6613a6ede",
+    "uid": "H23JDPEFF",
+    "map": "speedrun_jeans_short",
+    "category": 6,
+    "time": 7441,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-17T13:54:04.000Z",
+    "zipFilename": "00007441_STEAM_0_1_87291981_20260517-135404.zip",
+    "path": "speedrun_jeans_short/00007441_STEAM_0_1_87291981_20260517-135404.zip",
+    "archivedAt": "2026-05-17T18:00:09.839Z"
+  },
+  {
     "demFileHash": "b511db1f2257b75d290e4c14f288e3a321ca0440d6e1bc696a622dc5ed90cc19",
     "uid": "YR39EXPN8",
     "map": "speedrun_venem_strafeace",
