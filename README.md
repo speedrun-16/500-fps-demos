@@ -67,7 +67,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2026-05-10 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 1 | 2026-05-17 |
 | [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
-| [speedrun_evidenz2](./speedrun_evidenz2) | 2 | 2025-10-14 |
+| [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2026-05-19 |
 | [speedrun_exort](./speedrun_exort) | 1 | 2025-10-04 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
 | [speedrun_forest_maxfps](./speedrun_forest_maxfps) | 1 | 2025-11-13 |
@@ -174,4 +174,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **163**
-- Total Demos: **227**
+- Total Demos: **228**
