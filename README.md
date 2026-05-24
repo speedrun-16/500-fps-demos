@@ -119,7 +119,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-01-22 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-16 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2026-01-08 |
-| [speedrun_r3x_II](./speedrun_r3x_II) | 1 | 2025-12-20 |
+| [speedrun_r3x_II](./speedrun_r3x_II) | 2 | 2026-05-24 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-12 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
@@ -174,4 +174,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **163**
-- Total Demos: **229**
+- Total Demos: **230**
