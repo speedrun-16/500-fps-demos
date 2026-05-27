@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 1 | 2025-11-15 |
-| [de_dust](./de_dust) | 2 | 2025-10-23 |
+| [de_dust](./de_dust) | 3 | 2026-05-27 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-11-17 |
 | [deathrun_3h_fix](./deathrun_3h_fix) | 1 | 2026-02-02 |
 | [deathrun_antic](./deathrun_antic) | 1 | 2026-03-07 |
@@ -174,4 +174,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **163**
-- Total Demos: **230**
+- Total Demos: **231**
