@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "9484972b4f092131ec0f76383b7a206878bb6cbceea2b75de282a3b7a8238d94",
+    "uid": "KIOBW7KSN",
+    "map": "speedrun_morzna",
+    "category": 6,
+    "time": 17575,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-06-02T07:10:10.000Z",
+    "zipFilename": "00017575_STEAM_0_0_193002961_20260602-071010.zip",
+    "path": "speedrun_morzna/00017575_STEAM_0_0_193002961_20260602-071010.zip",
+    "archivedAt": "2026-06-02T12:00:10.600Z"
+  },
+  {
     "demFileHash": "cd2de432b2ce6d0ffd2083035b637424fb3ece7405d4e63e27275fbd3893f9dc",
     "uid": "NS4RZDQI9",
     "map": "speedrun_1000fps_battle",
