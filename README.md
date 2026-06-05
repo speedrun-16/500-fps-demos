@@ -153,7 +153,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-12-26 |
 | [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2025-11-23 |
 | [speedrun_TN_f](./speedrun_TN_f) | 1 | 2026-01-29 |
-| [speedrun_toni](./speedrun_toni) | 1 | 2026-05-03 |
+| [speedrun_toni](./speedrun_toni) | 2 | 2026-06-05 |
 | [speedrun_tr](./speedrun_tr) | 5 | 2026-05-12 |
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-05-03 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2026-01-15 |
@@ -176,4 +176,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **165**
-- Total Demos: **235**
+- Total Demos: **236**
