@@ -83,6 +83,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hb_ora-upania](./speedrun_hb_ora-upania) | 1 | 2026-06-01 |
 | [speedrun_helvis_ak](./speedrun_helvis_ak) | 1 | 2026-04-04 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
+| [speedrun_hop4](./speedrun_hop4) | 1 | 2026-06-09 |
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2026-03-29 |
 | [speedrun_insane](./speedrun_insane) | 1 | 2026-03-29 |
 | [speedrun_insanity](./speedrun_insanity) | 1 | 2026-02-07 |
@@ -177,5 +178,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **167**
-- Total Demos: **240**
+- Total Maps: **168**
+- Total Demos: **241**
