@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_2010",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "QFNF5CT5C",
+      "rid": 14418,
+      "hash": "a9bc1d6f3560aef65302fa54501a2d66bae08864694e2391cdc2346a11c9bb0e",
+      "t": 10645,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-12T13:54:49Z",
+      "zip": "00010645_STEAM_0_0_35544084_20251112-135449.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_2010-20251112-#QFNF5CT5C.analysis.json",
+          "off": 77,
+          "size": 733645
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_2010-20251112-#QFNF5CT5C.dem",
+          "off": 733789,
+          "size": 197994
+        },
+        {
+          "type": "replay",
+          "name": "14418.replay.xz",
+          "off": 931828,
+          "size": 82628
+        }
+      ]
+    }
+  ]
+}

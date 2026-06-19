@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_jeans_short",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "YR9HPALA0",
+      "rid": 807,
+      "hash": "be4f6c940173af34082d2baa5cac15c67b835143ba301f61490c4711904bafb1",
+      "t": 7265,
+      "sid": "STEAM_0:0:220312997",
+      "at": "2025-09-15T11:06:42Z",
+      "zip": "00007265_STEAM_0_0_220312997_20250915-110642.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_jeans_short-20250915-#YR9HPALA0.analysis.json",
+          "off": 84,
+          "size": 466746
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_jeans_short-20250915-#YR9HPALA0.dem",
+          "off": 466904,
+          "size": 158223
+        },
+        {
+          "type": "replay",
+          "name": "807.replay.xz",
+          "off": 625170,
+          "size": 61696
+        }
+      ]
+    },
+    {
+      "uid": "H23JDPEFF",
+      "rid": 53674,
+      "hash": "7c1ce394896c98241cc3640663cf906aa2ee1ef466ec6024cd4472b6613a6ede",
+      "t": 7441,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-17T13:54:04Z",
+      "zip": "00007441_STEAM_0_1_87291981_20260517-135404.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_jeans_short-20260517-#H23JDPEFF.analysis.json",
+          "off": 84,
+          "size": 560701
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_jeans_short-20260517-#H23JDPEFF.dem",
+          "off": 560859,
+          "size": 145992
+        },
+        {
+          "type": "replay",
+          "name": "53674.replay.xz",
+          "off": 706896,
+          "size": 62532
+        }
+      ]
+    },
+    {
+      "uid": "Z0LVTE9ER",
+      "rid": 9393,
+      "hash": "41b6b8f74f782ada05cc73330fc20893cbfe41050d436753a666e42828103bfe",
+      "t": 8211,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-12T14:26:19Z",
+      "zip": "00008211_STEAM_0_0_35544084_20251012-142619.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_jeans_short-20251012-#Z0LVTE9ER.analysis.json",
+          "off": 84,
+          "size": 611604
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_jeans_short-20251012-#Z0LVTE9ER.dem",
+          "off": 611762,
+          "size": 167127
+        },
+        {
+          "type": "replay",
+          "name": "9393.replay.xz",
+          "off": 778933,
+          "size": 65848
+        }
+      ]
+    }
+  ]
+}

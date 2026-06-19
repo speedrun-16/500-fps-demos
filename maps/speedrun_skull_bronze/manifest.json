@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_skull_bronze",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "PXRPT12W6",
+      "rid": 11840,
+      "hash": "e2ccef393e2199be92b0aae72e72e7034c75302d64c3e5f25810a441af7dc55c",
+      "t": 12118,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-25T15:33:27Z",
+      "zip": "00012118_STEAM_0_0_35544084_20251025-153327.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_skull_bronze-20251025-#PXRPT12W6.analysis.json",
+          "off": 85,
+          "size": 785505
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_skull_bronze-20251025-#PXRPT12W6.dem",
+          "off": 785665,
+          "size": 212431
+        },
+        {
+          "type": "replay",
+          "name": "11840.replay.xz",
+          "off": 998141,
+          "size": 85160
+        }
+      ]
+    }
+  ]
+}

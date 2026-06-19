@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_kazakhstan",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "UD2ESYV9O",
+      "rid": 34877,
+      "hash": "999f1e1a3d0db1f056bb17723998fe42e36bd5e584f3c6e2fc7be41671747d79",
+      "t": 13842,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-03-01T10:23:32Z",
+      "zip": "00013842_STEAM_0_0_35544084_20260301-102332.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kazakhstan-20260301-#UD2ESYV9O.analysis.json",
+          "off": 83,
+          "size": 889559
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kazakhstan-20260301-#UD2ESYV9O.dem",
+          "off": 889715,
+          "size": 239750
+        },
+        {
+          "type": "replay",
+          "name": "34877.replay.xz",
+          "off": 1129510,
+          "size": 105632
+        }
+      ]
+    }
+  ]
+}

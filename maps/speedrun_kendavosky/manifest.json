@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_kendavosky",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "L7XON10PF",
+      "rid": 31927,
+      "hash": "5097eda18367e508e6ad7c94390c055be4650c95b5c450a82a7a9d7cfe60b381",
+      "t": 13952,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-02-03T17:11:43Z",
+      "zip": "00013952_STEAM_0_0_35544084_20260203-171143.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kendavosky-20260203-#L7XON10PF.analysis.json",
+          "off": 83,
+          "size": 880638
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kendavosky-20260203-#L7XON10PF.dem",
+          "off": 880794,
+          "size": 233269
+        },
+        {
+          "type": "replay",
+          "name": "31927.replay.xz",
+          "off": 1114108,
+          "size": 99468
+        }
+      ]
+    }
+  ]
+}

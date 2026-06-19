@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sudpi",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "GALBSFAZ0",
+      "rid": 31093,
+      "hash": "a442221d0d6734440e658b70df7cda58f0524a263a21d8cc0cd00f9d87799fa3",
+      "t": 10746,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-31T09:13:00Z",
+      "zip": "00010746_STEAM_0_0_35544084_20260131-091300.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sudpi-20260131-#GALBSFAZ0.analysis.json",
+          "off": 78,
+          "size": 712354
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sudpi-20260131-#GALBSFAZ0.dem",
+          "off": 712500,
+          "size": 195500
+        },
+        {
+          "type": "replay",
+          "name": "31093.replay.xz",
+          "off": 908045,
+          "size": 78600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "de_vertigo",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "D51G4T2JA",
+      "rid": 15290,
+      "hash": "3939414c9161bf521931879ee2d189812b832cab20dea0ca8ff4cce49fd761cb",
+      "t": 6563,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-17T12:47:16Z",
+      "zip": "00006563_STEAM_0_0_35544084_20251117-124716.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_vertigo-20251117-#D51G4T2JA.analysis.json",
+          "off": 74,
+          "size": 508538
+        },
+        {
+          "type": "dem",
+          "name": "de_vertigo-20251117-#D51G4T2JA.dem",
+          "off": 508676,
+          "size": 140234
+        },
+        {
+          "type": "replay",
+          "name": "15290.replay.xz",
+          "off": 648955,
+          "size": 48168
+        }
+      ]
+    }
+  ]
+}

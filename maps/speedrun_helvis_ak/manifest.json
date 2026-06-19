@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_helvis_ak",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "XIOK5XMU2",
+      "rid": 39274,
+      "hash": "6031cc93884954fc2c587e36ef97532ed59690a7639ab00e321087bb0f67621b",
+      "t": 15778,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-04-04T11:10:50Z",
+      "zip": "00015778_STEAM_0_0_35544084_20260404-111050.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_helvis_ak-20260404-#XIOK5XMU2.analysis.json",
+          "off": 82,
+          "size": 930007
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_helvis_ak-20260404-#XIOK5XMU2.dem",
+          "off": 930161,
+          "size": 260444
+        },
+        {
+          "type": "replay",
+          "name": "39274.replay.xz",
+          "off": 1190650,
+          "size": 114032
+        }
+      ]
+    }
+  ]
+}

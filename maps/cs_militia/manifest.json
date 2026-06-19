@@ -1,0 +1,35 @@
+{
+  "map": "cs_militia",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "I09MREY17",
+      "rid": 14876,
+      "hash": "d9500c65f22db1033d72d31a987050a5ed5c7c612a76466edff3237b3b1b359b",
+      "t": 8198,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-15T15:50:59Z",
+      "zip": "00008198_STEAM_0_0_35544084_20251115-155059.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "cs_militia-20251115-#I09MREY17.analysis.json",
+          "off": 74,
+          "size": 588266
+        },
+        {
+          "type": "dem",
+          "name": "cs_militia-20251115-#I09MREY17.dem",
+          "off": 588404,
+          "size": 158923
+        },
+        {
+          "type": "replay",
+          "name": "14876.replay.xz",
+          "off": 747372,
+          "size": 58240
+        }
+      ]
+    }
+  ]
+}

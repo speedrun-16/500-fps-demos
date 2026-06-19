@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_russia",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "XT1CXSJHM",
+      "rid": 39281,
+      "hash": "540e67120866d6f5fdd6519af1750a395c9bf8283e448cd9ef9dba59e03c071b",
+      "t": 15631,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-04-04T12:58:24Z",
+      "zip": "00015631_STEAM_0_0_35544084_20260404-125824.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_russia-20260404-#XT1CXSJHM.analysis.json",
+          "off": 79,
+          "size": 923926
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_russia-20260404-#XT1CXSJHM.dem",
+          "off": 924074,
+          "size": 246824
+        },
+        {
+          "type": "replay",
+          "name": "39281.replay.xz",
+          "off": 1170943,
+          "size": 110896
+        }
+      ]
+    }
+  ]
+}

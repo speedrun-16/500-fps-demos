@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_mordex",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "61B37ACZD",
+      "rid": 39266,
+      "hash": "39b84058fc972dedca521f77ea0966af1e78f54bb00114e464f9b8a38f16bb4e",
+      "t": 11228,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-04-04T11:02:23Z",
+      "zip": "00011228_STEAM_0_0_35544084_20260404-110223.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mordex-20260404-#61B37ACZD.analysis.json",
+          "off": 79,
+          "size": 778851
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mordex-20260404-#61B37ACZD.dem",
+          "off": 778999,
+          "size": 218513
+        },
+        {
+          "type": "replay",
+          "name": "39266.replay.xz",
+          "off": 997557,
+          "size": 93296
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_morzna",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "KIOBW7KSN",
+      "rid": 60247,
+      "hash": "9484972b4f092131ec0f76383b7a206878bb6cbceea2b75de282a3b7a8238d94",
+      "t": 17575,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-02T07:10:10Z",
+      "zip": "00017575_STEAM_0_0_193002961_20260602-071010.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_morzna-20260602-#KIOBW7KSN.analysis.json",
+          "off": 79,
+          "size": 1009552
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_morzna-20260602-#KIOBW7KSN.dem",
+          "off": 1009700,
+          "size": 275941
+        },
+        {
+          "type": "replay",
+          "name": "60247.replay.xz",
+          "off": 1285686,
+          "size": 116220
+        }
+      ]
+    }
+  ]
+}

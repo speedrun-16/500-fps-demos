@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_ukraine_beta",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "4KBOB2X7B",
+      "rid": 31556,
+      "hash": "78fe613585aa2f19c3d36e039cc9cd5cd88b4a7cd3174bc7302002c19610a6d8",
+      "t": 12416,
+      "sid": "STEAM_0:1:499355704",
+      "at": "2026-02-01T07:47:11Z",
+      "zip": "00012416_STEAM_0_1_499355704_20260201-074711.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_ukraine_beta-20260201-#4KBOB2X7B.analysis.json",
+          "off": 85,
+          "size": 672346
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_ukraine_beta-20260201-#4KBOB2X7B.dem",
+          "off": 672506,
+          "size": 214958
+        },
+        {
+          "type": "replay",
+          "name": "31556.replay.xz",
+          "off": 887509,
+          "size": 92300
+        }
+      ]
+    },
+    {
+      "uid": "6NSXN2ZNY",
+      "rid": 22373,
+      "hash": "c0f06f89a64191dab3b64cd87fa0cb633d200256331f1de4b787058549dfed82",
+      "t": 12733,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-17T09:11:40Z",
+      "zip": "00012733_STEAM_0_0_35544084_20251217-091140.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_ukraine_beta-20251217-#6NSXN2ZNY.analysis.json",
+          "off": 85,
+          "size": 833544
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_ukraine_beta-20251217-#6NSXN2ZNY.dem",
+          "off": 833704,
+          "size": 227103
+        },
+        {
+          "type": "replay",
+          "name": "22373.replay.xz",
+          "off": 1060852,
+          "size": 95892
+        }
+      ]
+    }
+  ]
+}

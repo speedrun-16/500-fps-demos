@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_exelset_4Vendeta",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "NADKUGDMT",
+      "rid": 29983,
+      "hash": "252b9e66fa069701a787e19566630d55dba09156e44e65c9654fec88f8d69985",
+      "t": 29811,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-25T11:46:57Z",
+      "zip": "00029811_STEAM_0_0_35544084_20260125-114657.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_exelset_4Vendeta-20260125-#NADKUGDMT.analysis.json",
+          "off": 89,
+          "size": 1712365
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_exelset_4Vendeta-20260125-#NADKUGDMT.dem",
+          "off": 1712533,
+          "size": 452574
+        },
+        {
+          "type": "replay",
+          "name": "29983.replay.xz",
+          "off": 2165152,
+          "size": 191484
+        }
+      ]
+    }
+  ]
+}

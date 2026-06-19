@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retro_mini",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "J4EAMPRIG",
+      "rid": 42679,
+      "hash": "70e2c8f94f6edd371c9f84db076e12cf10943703aeeb6990e84313608b0b8f76",
+      "t": 9230,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-04-19T09:57:12Z",
+      "zip": "00009230_STEAM_0_0_35544084_20260419-095712.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_retro_mini-20260419-#J4EAMPRIG.analysis.json",
+          "off": 83,
+          "size": 639496
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_retro_mini-20260419-#J4EAMPRIG.dem",
+          "off": 639652,
+          "size": 180957
+        },
+        {
+          "type": "replay",
+          "name": "42679.replay.xz",
+          "off": 820654,
+          "size": 66532
+        }
+      ]
+    }
+  ]
+}

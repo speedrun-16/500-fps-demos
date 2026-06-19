@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_enemy_easy",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "VE47OUIXQ",
+      "rid": 1244,
+      "hash": "03b9e04e3486b2190618a55fa6b7cc1e81afefada978ed38d8e8b98bcec96c0f",
+      "t": 25615,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-16T09:03:11Z",
+      "zip": "00025615_STEAM_0_1_771348382_20250916-090311.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20250916-#VE47OUIXQ.analysis.json",
+          "off": 83,
+          "size": 1437528
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20250916-#VE47OUIXQ.dem",
+          "off": 1437684,
+          "size": 395874
+        },
+        {
+          "type": "replay",
+          "name": "1244.replay.xz",
+          "off": 1833602,
+          "size": 177516
+        }
+      ]
+    },
+    {
+      "uid": "3RPO462GL",
+      "rid": 51381,
+      "hash": "bb8e02ec9400fc50ad4d6efb5f5fde5fe89d11e6671484d3259e277e12692e85",
+      "t": 25957,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-10T18:39:31Z",
+      "zip": "00025957_STEAM_0_1_87291981_20260510-183931.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20260510-#3RPO462GL.analysis.json",
+          "off": 83,
+          "size": 1232686
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20260510-#3RPO462GL.dem",
+          "off": 1232842,
+          "size": 353873
+        },
+        {
+          "type": "replay",
+          "name": "51381.replay.xz",
+          "off": 1586760,
+          "size": 191944
+        }
+      ]
+    }
+  ]
+}

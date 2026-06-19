@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_temple",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "U4SJS20QD",
+      "rid": 4395,
+      "hash": "6ba21bc257664192b401b9148530973cce92430ebcf17626348a259fcee28749",
+      "t": 19196,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-09-21T08:41:31Z",
+      "zip": "00019196_STEAM_0_0_35544084_20250921-084131.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_temple-20250921-#U4SJS20QD.analysis.json",
+          "off": 79,
+          "size": 1098719
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_temple-20250921-#U4SJS20QD.dem",
+          "off": 1098867,
+          "size": 303648
+        },
+        {
+          "type": "replay",
+          "name": "4395.replay.xz",
+          "off": 1402559,
+          "size": 120912
+        }
+      ]
+    }
+  ]
+}

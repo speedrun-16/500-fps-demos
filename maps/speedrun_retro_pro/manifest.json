@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retro_pro",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "O99EXDGFG",
+      "rid": 19026,
+      "hash": "ab72172d1e7181a1863bd3fc78b817a5fe32f509e5758ac7254f2d7012312553",
+      "t": 10500,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-02T14:00:12Z",
+      "zip": "00010500_STEAM_0_0_35544084_20251202-140012.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_retro_pro-20251202-#O99EXDGFG.analysis.json",
+          "off": 82,
+          "size": 710726
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_retro_pro-20251202-#O99EXDGFG.dem",
+          "off": 710880,
+          "size": 190431
+        },
+        {
+          "type": "replay",
+          "name": "19026.replay.xz",
+          "off": 901356,
+          "size": 78384
+        }
+      ]
+    }
+  ]
+}

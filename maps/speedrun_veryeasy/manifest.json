@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_veryeasy",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "Q82Y86IT3",
+      "rid": 15279,
+      "hash": "72a3260c1f179f85a9783f0ea33b55b9bc622d871831aafb712ab2a2e00c39b6",
+      "t": 9741,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-17T07:52:07Z",
+      "zip": "00009741_STEAM_0_0_35544084_20251117-075207.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_veryeasy-20251117-#Q82Y86IT3.analysis.json",
+          "off": 81,
+          "size": 638975
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_veryeasy-20251117-#Q82Y86IT3.dem",
+          "off": 639127,
+          "size": 181200
+        },
+        {
+          "type": "replay",
+          "name": "15279.replay.xz",
+          "off": 820372,
+          "size": 73784
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hop4",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "XL24Q2WBP",
+      "rid": 62257,
+      "hash": "48d508f6123a9db3f174ae1b137b2f79f4931cc2916394f19d2555f014bd78a4",
+      "t": 10225,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-06-09T16:47:27Z",
+      "zip": "00010225_STEAM_0_0_35544084_20260609-164727.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_hop4-20260609-#XL24Q2WBP.analysis.json",
+          "off": 77,
+          "size": 767407
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_hop4-20260609-#XL24Q2WBP.dem",
+          "off": 767551,
+          "size": 190564
+        },
+        {
+          "type": "replay",
+          "name": "62257.replay.xz",
+          "off": 958160,
+          "size": 75216
+        }
+      ]
+    }
+  ]
+}

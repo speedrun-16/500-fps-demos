@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_voidsanctum_beta2",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "QZTZD4AIG",
+      "rid": 12099,
+      "hash": "a628d44820aea7784a46056771489fa072d09834722ed082c87ff358bafcd8b2",
+      "t": 18897,
+      "sid": "STEAM_0:1:461671282",
+      "at": "2025-10-26T03:10:56Z",
+      "zip": "00018897_STEAM_0_1_461671282_20251026-031056.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_voidsanctum_beta2-20251026-#QZTZD4AIG.analysis.json",
+          "off": 90,
+          "size": 932351
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_voidsanctum_beta2-20251026-#QZTZD4AIG.dem",
+          "off": 932521,
+          "size": 312905
+        },
+        {
+          "type": "replay",
+          "name": "12099.replay.xz",
+          "off": 1245471,
+          "size": 133252
+        }
+      ]
+    }
+  ]
+}

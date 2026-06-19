@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_deceit",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "HDWMAC10V",
+      "rid": 17370,
+      "hash": "41ff5e5f02bd53477d2545ee2063caa4abf6ad7d829541e648805aad3d0b7c7b",
+      "t": 11133,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-23T10:05:02Z",
+      "zip": "00011133_STEAM_0_0_35544084_20251123-100502.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_deceit-20251123-#HDWMAC10V.analysis.json",
+          "off": 79,
+          "size": 749165
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_deceit-20251123-#HDWMAC10V.dem",
+          "off": 749313,
+          "size": 202596
+        },
+        {
+          "type": "replay",
+          "name": "17370.replay.xz",
+          "off": 951954,
+          "size": 78864
+        }
+      ]
+    }
+  ]
+}

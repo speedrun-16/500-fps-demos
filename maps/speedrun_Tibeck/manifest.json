@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_Tibeck",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "GZE2HBHMV",
+      "rid": 17377,
+      "hash": "b6a267f0424f754697d12443092026f1546721735cfe6f2a38f2eb2503a2607f",
+      "t": 10734,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-23T12:28:02Z",
+      "zip": "00010734_STEAM_0_0_35544084_20251123-122802.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Tibeck-20251123-#GZE2HBHMV.analysis.json",
+          "off": 79,
+          "size": 729125
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Tibeck-20251123-#GZE2HBHMV.dem",
+          "off": 729273,
+          "size": 195066
+        },
+        {
+          "type": "replay",
+          "name": "17377.replay.xz",
+          "off": 924384,
+          "size": 81352
+        }
+      ]
+    }
+  ]
+}

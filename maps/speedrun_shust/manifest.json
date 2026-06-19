@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_shust",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "HNBL730X3",
+      "rid": 15276,
+      "hash": "2efc2ba4e1b3104f5ffbb722aa392229971333ffe04e219f56ce7ec87ec5d602",
+      "t": 15188,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-17T07:49:10Z",
+      "zip": "00015188_STEAM_0_0_35544084_20251117-074910.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_shust-20251117-#HNBL730X3.analysis.json",
+          "off": 78,
+          "size": 917468
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_shust-20251117-#HNBL730X3.dem",
+          "off": 917614,
+          "size": 248645
+        },
+        {
+          "type": "replay",
+          "name": "15276.replay.xz",
+          "off": 1166304,
+          "size": 108636
+        }
+      ]
+    }
+  ]
+}

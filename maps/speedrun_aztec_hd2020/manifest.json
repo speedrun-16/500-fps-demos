@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_aztec_hd2020",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "FN1DO9U69",
+      "rid": 32393,
+      "hash": "75c90ccd5221cb40f53020e28779cbcaa1d8f6818cfb1ef26fff81027f0f21fa",
+      "t": 11728,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-02-07T11:01:35Z",
+      "zip": "00011728_STEAM_0_0_35544084_20260207-110135.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aztec_hd2020-20260207-#FN1DO9U69.analysis.json",
+          "off": 85,
+          "size": 763052
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aztec_hd2020-20260207-#FN1DO9U69.dem",
+          "off": 763212,
+          "size": 201626
+        },
+        {
+          "type": "replay",
+          "name": "32393.replay.xz",
+          "off": 964883,
+          "size": 81584
+        }
+      ]
+    }
+  ]
+}

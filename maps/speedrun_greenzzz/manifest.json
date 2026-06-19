@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_greenzzz",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "PYA7VZEDU",
+      "rid": 17360,
+      "hash": "43054d0546935e31c05102c86e44678a406de116128844e209555fe80b523190",
+      "t": 11746,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-23T09:44:03Z",
+      "zip": "00011746_STEAM_0_0_35544084_20251123-094403.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_greenzzz-20251123-#PYA7VZEDU.analysis.json",
+          "off": 81,
+          "size": 780772
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_greenzzz-20251123-#PYA7VZEDU.dem",
+          "off": 780924,
+          "size": 209835
+        },
+        {
+          "type": "replay",
+          "name": "17360.replay.xz",
+          "off": 990804,
+          "size": 85456
+        }
+      ]
+    }
+  ]
+}

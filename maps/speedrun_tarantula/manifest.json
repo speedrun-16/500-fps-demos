@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_tarantula",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "EXQU01TCN",
+      "rid": 24044,
+      "hash": "e70427ee8ee743859a144a62bae03c8d750887651920446cfc0fc1f58a916209",
+      "t": 17526,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-26T10:39:41Z",
+      "zip": "00017526_STEAM_0_0_35544084_20251226-103941.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_tarantula-20251226-#EXQU01TCN.analysis.json",
+          "off": 82,
+          "size": 1070595
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_tarantula-20251226-#EXQU01TCN.dem",
+          "off": 1070749,
+          "size": 281221
+        },
+        {
+          "type": "replay",
+          "name": "24044.replay.xz",
+          "off": 1352015,
+          "size": 127680
+        }
+      ]
+    }
+  ]
+}

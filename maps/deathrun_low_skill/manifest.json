@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_low_skill",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "ZAKO277XV",
+      "rid": 30242,
+      "hash": "82fa501d0203136a1a357d260a186cd3d1571f76d17fccc5b8610f99037c2d5d",
+      "t": 13000,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-27T13:16:21Z",
+      "zip": "00013000_STEAM_0_0_35544084_20260127-131621.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_low_skill-20260127-#ZAKO277XV.analysis.json",
+          "off": 82,
+          "size": 768321
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_low_skill-20260127-#ZAKO277XV.dem",
+          "off": 768475,
+          "size": 208425
+        },
+        {
+          "type": "replay",
+          "name": "30242.replay.xz",
+          "off": 976945,
+          "size": 82264
+        }
+      ]
+    }
+  ]
+}

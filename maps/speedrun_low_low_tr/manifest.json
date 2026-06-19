@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_low_low_tr",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "NVRG8CASM",
+      "rid": 37103,
+      "hash": "8b72f1ba736c13a6c7cfb135ea1240eda768f3143917234e7aaa8f54c488a6b7",
+      "t": 5460,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-03-22T14:31:29Z",
+      "zip": "00005460_STEAM_0_0_35544084_20260322-143129.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_low_low_tr-20260322-#NVRG8CASM.analysis.json",
+          "off": 83,
+          "size": 439934
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_low_low_tr-20260322-#NVRG8CASM.dem",
+          "off": 440090,
+          "size": 123156
+        },
+        {
+          "type": "replay",
+          "name": "37103.replay.xz",
+          "off": 563291,
+          "size": 44172
+        }
+      ]
+    }
+  ]
+}

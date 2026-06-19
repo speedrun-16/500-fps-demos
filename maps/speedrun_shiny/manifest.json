@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_shiny",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "HTCTTXRDI",
+      "rid": 31121,
+      "hash": "ed3857537d5cd66e153abf8c242f8489a027df9a7010715dd084bd8758dbcdd1",
+      "t": 15216,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-31T12:47:04Z",
+      "zip": "00015216_STEAM_0_0_35544084_20260131-124704.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_shiny-20260131-#HTCTTXRDI.analysis.json",
+          "off": 78,
+          "size": 911850
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_shiny-20260131-#HTCTTXRDI.dem",
+          "off": 911996,
+          "size": 249665
+        },
+        {
+          "type": "replay",
+          "name": "31121.replay.xz",
+          "off": 1161706,
+          "size": 106888
+        }
+      ]
+    }
+  ]
+}

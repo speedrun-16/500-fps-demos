@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_batalia",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "Q8D5LK2ZJ",
+      "rid": 16157,
+      "hash": "24f86fa19288bc1d6f9015ce5465ddb3b9e29a74d72f9d1bd1da6fd832ed0da8",
+      "t": 10133,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-20T12:45:16Z",
+      "zip": "00010133_STEAM_0_0_35544084_20251120-124516.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_batalia-20251120-#Q8D5LK2ZJ.analysis.json",
+          "off": 80,
+          "size": 732602
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_batalia-20251120-#Q8D5LK2ZJ.dem",
+          "off": 732752,
+          "size": 195532
+        },
+        {
+          "type": "replay",
+          "name": "16157.replay.xz",
+          "off": 928329,
+          "size": 75964
+        }
+      ]
+    }
+  ]
+}

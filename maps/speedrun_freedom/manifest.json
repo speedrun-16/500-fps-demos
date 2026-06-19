@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_freedom",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "6AXP0IJ3J",
+      "rid": 10003,
+      "hash": "72463c0642e97dda81a8c522c019d0b598687388442436ef11b74f9766b1f51b",
+      "t": 11406,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-18T10:23:58Z",
+      "zip": "00011406_STEAM_0_0_35544084_20251018-102358.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_freedom-20251018-#6AXP0IJ3J.analysis.json",
+          "off": 80,
+          "size": 742984
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_freedom-20251018-#6AXP0IJ3J.dem",
+          "off": 743134,
+          "size": 200284
+        },
+        {
+          "type": "replay",
+          "name": "10003.replay.xz",
+          "off": 943463,
+          "size": 84012
+        }
+      ]
+    }
+  ]
+}

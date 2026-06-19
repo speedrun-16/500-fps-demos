@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_oa_easy",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "NM9VF3STT",
+      "rid": 22369,
+      "hash": "5b609a1e530d8f14524aeea052bed4bbd1b0e56c09ab4b089256c8a3a6351957",
+      "t": 19734,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-17T06:49:43Z",
+      "zip": "00019734_STEAM_0_0_35544084_20251217-064943.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_oa_easy-20251217-#NM9VF3STT.analysis.json",
+          "off": 80,
+          "size": 1214849
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_oa_easy-20251217-#NM9VF3STT.dem",
+          "off": 1214999,
+          "size": 325571
+        },
+        {
+          "type": "replay",
+          "name": "22369.replay.xz",
+          "off": 1540615,
+          "size": 135280
+        }
+      ]
+    }
+  ]
+}

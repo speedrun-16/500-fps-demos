@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_30min",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "5DAX58K4I",
+      "rid": 39257,
+      "hash": "913f5000b5f041a74ca486935f9db0e7130fe81c8a8d7443c360e5359de5bb50",
+      "t": 7198,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-04-04T10:57:02Z",
+      "zip": "00007198_STEAM_0_0_35544084_20260404-105702.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_30min-20260404-#5DAX58K4I.analysis.json",
+          "off": 78,
+          "size": 549523
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_30min-20260404-#5DAX58K4I.dem",
+          "off": 549669,
+          "size": 150025
+        },
+        {
+          "type": "replay",
+          "name": "39257.replay.xz",
+          "off": 699739,
+          "size": 59796
+        }
+      ]
+    }
+  ]
+}

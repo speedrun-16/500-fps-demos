@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_evi_big_long",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "KAL5TNKV1",
+      "rid": 53640,
+      "hash": "2faaf6e0832fc8faceec74ac556bdfc9ca3e3dbd51a3c05015e9a53fa0366dfe",
+      "t": 16516,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-17T11:56:41Z",
+      "zip": "00016516_STEAM_0_1_87291981_20260517-115641.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_evi_big_long-20260517-#KAL5TNKV1.analysis.json",
+          "off": 85,
+          "size": 914604
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_evi_big_long-20260517-#KAL5TNKV1.dem",
+          "off": 914764,
+          "size": 244717
+        },
+        {
+          "type": "replay",
+          "name": "53640.replay.xz",
+          "off": 1159526,
+          "size": 124096
+        }
+      ]
+    }
+  ]
+}

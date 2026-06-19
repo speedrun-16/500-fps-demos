@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_Hugh",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "VL447EKE5",
+      "rid": 38462,
+      "hash": "eda4fe3515e7310fb4da21fe6a5fea6185f552141e381cb1ac159b3ce7b26698",
+      "t": 11386,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-03-29T14:18:02Z",
+      "zip": "00011386_STEAM_0_0_35544084_20260329-141802.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_Hugh-20260329-#VL447EKE5.analysis.json",
+          "off": 77,
+          "size": 720579
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_Hugh-20260329-#VL447EKE5.dem",
+          "off": 720723,
+          "size": 208804
+        },
+        {
+          "type": "replay",
+          "name": "38462.replay.xz",
+          "off": 929572,
+          "size": 81204
+        }
+      ]
+    }
+  ]
+}

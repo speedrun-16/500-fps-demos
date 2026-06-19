@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sudip",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "81MVMT8A9",
+      "rid": 14096,
+      "hash": "4d7ab1c6bcd550ac20ee6af53a9d1d04c50a36ce9a2c73e3c9228434f446419a",
+      "t": 10706,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-09T10:58:28Z",
+      "zip": "00010706_STEAM_0_0_35544084_20251109-105828.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sudip-20251109-#81MVMT8A9.analysis.json",
+          "off": 78,
+          "size": 715461
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sudip-20251109-#81MVMT8A9.dem",
+          "off": 715607,
+          "size": 190147
+        },
+        {
+          "type": "replay",
+          "name": "14096.replay.xz",
+          "off": 905799,
+          "size": 77396
+        }
+      ]
+    }
+  ]
+}

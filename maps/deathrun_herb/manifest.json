@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_herb",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "3YVAMUYNL",
+      "rid": 14414,
+      "hash": "9d55b5888f5a29bec82bb1aab68c91b0644dcf90cb93fdd619d1a89adc57cdbf",
+      "t": 14021,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-11-12T13:21:24Z",
+      "zip": "00014021_STEAM_0_0_35544084_20251112-132124.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_herb-20251112-#3YVAMUYNL.analysis.json",
+          "off": 77,
+          "size": 968625
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_herb-20251112-#3YVAMUYNL.dem",
+          "off": 968769,
+          "size": 252210
+        },
+        {
+          "type": "replay",
+          "name": "14414.replay.xz",
+          "off": 1221024,
+          "size": 100940
+        }
+      ]
+    }
+  ]
+}

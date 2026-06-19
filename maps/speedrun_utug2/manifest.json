@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_utug2",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "XZIFLDMS5",
+      "rid": 30678,
+      "hash": "33a1748f7d0f8ed9ba80d4d7959c8afc0e1f19a246dd4ad24b86c4e06b1a0e56",
+      "t": 13689,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-29T13:22:22Z",
+      "zip": "00013689_STEAM_0_0_35544084_20260129-132222.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_utug2-20260129-#XZIFLDMS5.analysis.json",
+          "off": 78,
+          "size": 822831
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_utug2-20260129-#XZIFLDMS5.dem",
+          "off": 822977,
+          "size": 225495
+        },
+        {
+          "type": "replay",
+          "name": "30678.replay.xz",
+          "off": 1048517,
+          "size": 95924
+        }
+      ]
+    }
+  ]
+}

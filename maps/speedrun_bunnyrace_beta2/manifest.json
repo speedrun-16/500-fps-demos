@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_bunnyrace_beta2",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "BJ0ZY7TG5",
+      "rid": 23544,
+      "hash": "4a5e9b7b82eb32cf07395081948a12fc1dff36a2ac592399f79bb3f6f89b1c78",
+      "t": 27969,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-24T17:01:29Z",
+      "zip": "00027969_STEAM_0_0_35544084_20251224-170129.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bunnyrace_beta2-20251224-#BJ0ZY7TG5.analysis.json",
+          "off": 88,
+          "size": 1553839
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bunnyrace_beta2-20251224-#BJ0ZY7TG5.dem",
+          "off": 1554005,
+          "size": 427093
+        },
+        {
+          "type": "replay",
+          "name": "23544.replay.xz",
+          "off": 1981143,
+          "size": 194972
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_several_trilogy",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "7H94SBYRA",
+      "rid": 31113,
+      "hash": "6dfa318976eb24a95c6a8a254a8bd2d5e5c6ff9562b61477b6ab6ab5be40bfdb",
+      "t": 11671,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-31T11:46:07Z",
+      "zip": "00011671_STEAM_0_0_35544084_20260131-114607.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_several_trilogy-20260131-#7H94SBYRA.analysis.json",
+          "off": 88,
+          "size": 894334
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_several_trilogy-20260131-#7H94SBYRA.dem",
+          "off": 894500,
+          "size": 237492
+        },
+        {
+          "type": "replay",
+          "name": "31113.replay.xz",
+          "off": 1132037,
+          "size": 99164
+        }
+      ]
+    }
+  ]
+}

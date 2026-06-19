@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_greywill",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "S8GXJHKO0",
+      "rid": 25082,
+      "hash": "fef14e896dad43473bb1eb5e5f0aa0efa9db8268e64738d5a7273baba131fd47",
+      "t": 8633,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-02T07:19:45Z",
+      "zip": "00008633_STEAM_0_0_35544084_20260102-071945.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_greywill-20260102-#S8GXJHKO0.analysis.json",
+          "off": 81,
+          "size": 600237
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_greywill-20260102-#S8GXJHKO0.dem",
+          "off": 600389,
+          "size": 156949
+        },
+        {
+          "type": "replay",
+          "name": "25082.replay.xz",
+          "off": 757383,
+          "size": 61172
+        }
+      ]
+    }
+  ]
+}

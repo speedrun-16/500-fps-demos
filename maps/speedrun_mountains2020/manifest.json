@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_mountains2020",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "E9D6BR2ZJ",
+      "rid": 37099,
+      "hash": "01b990a71b045062a5bbfc93717a61f34c529f0568d23fa7f17eaa1103ff6e47",
+      "t": 21055,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-03-22T09:43:54Z",
+      "zip": "00021055_STEAM_0_0_35544084_20260322-094354.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mountains2020-20260322-#E9D6BR2ZJ.analysis.json",
+          "off": 86,
+          "size": 1189509
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mountains2020-20260322-#E9D6BR2ZJ.dem",
+          "off": 1189671,
+          "size": 323961
+        },
+        {
+          "type": "replay",
+          "name": "37099.replay.xz",
+          "off": 1513677,
+          "size": 144792
+        }
+      ]
+    }
+  ]
+}

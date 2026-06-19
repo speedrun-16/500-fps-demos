@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_eastwood",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "JYOTUSBMX",
+      "rid": 9943,
+      "hash": "34c2f5881b720ce46230279ec05efbd7177d14c30f9bcb0d4ee9e0ee796c0449",
+      "t": 13577,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-17T17:56:20Z",
+      "zip": "00013577_STEAM_0_0_35544084_20251017-175620.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#JYOTUSBMX.analysis.json",
+          "off": 81,
+          "size": 882874
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#JYOTUSBMX.dem",
+          "off": 883026,
+          "size": 238374
+        },
+        {
+          "type": "replay",
+          "name": "9943.replay.xz",
+          "off": 1121444,
+          "size": 95848
+        }
+      ]
+    }
+  ]
+}

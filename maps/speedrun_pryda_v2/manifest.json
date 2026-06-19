@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_pryda_v2",
+  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "runs": [
+    {
+      "uid": "FDSU23B34",
+      "rid": 30211,
+      "hash": "6e20432b68c68ab34c12bdfa0a4965dda5adaed9756bc40795ccd4995cd2921e",
+      "t": 9498,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-01-26T13:40:54Z",
+      "zip": "00009498_STEAM_0_0_35544084_20260126-134054.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pryda_v2-20260126-#FDSU23B34.analysis.json",
+          "off": 81,
+          "size": 628055
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pryda_v2-20260126-#FDSU23B34.dem",
+          "off": 628207,
+          "size": 173451
+        },
+        {
+          "type": "replay",
+          "name": "30211.replay.xz",
+          "off": 801703,
+          "size": 70348
+        }
+      ]
+    }
+  ]
+}
