@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-17T12:00:03.914Z",
+  "updatedAt": "2026-07-17T18:00:03.804Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -531,6 +531,12 @@
       "at": "2026-02-02T15:24:46Z",
       "manifest": "maps/deathrun_3h_fix/manifest.json"
     },
+    "speedrun_outside_estonia2": {
+      "n": 1,
+      "best": 13238,
+      "at": "2026-07-17T15:48:43.000Z",
+      "manifest": "maps/speedrun_outside_estonia2/manifest.json"
+    },
     "speedrun_fpsmeowkatoz": {
       "n": 1,
       "best": 3824,
@@ -965,8 +971,8 @@
     },
     "speedrun_euphoria": {
       "n": 2,
-      "best": 15052,
-      "at": "2026-07-17T11:58:51.000Z",
+      "best": 14945,
+      "at": "2026-07-17T12:01:27.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_bieber_f": {
