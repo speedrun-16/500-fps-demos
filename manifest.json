@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-11T12:00:09.363Z",
+  "updatedAt": "2026-07-17T12:00:03.914Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -965,8 +965,8 @@
     },
     "speedrun_euphoria": {
       "n": 2,
-      "best": 15079,
-      "at": "2026-05-18T18:50:22Z",
+      "best": 15052,
+      "at": "2026-07-17T11:58:51.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_bieber_f": {
