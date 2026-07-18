@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-17T18:00:03.804Z",
+  "updatedAt": "2026-07-18T18:00:07.144Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -70,9 +70,9 @@
       "manifest": "maps/speedrun_Domination/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 3,
-      "best": 6597,
-      "at": "2026-06-07T12:23:50Z",
+      "n": 4,
+      "best": 6506,
+      "at": "2026-07-18T14:47:39.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_svet_ext": {
@@ -392,6 +392,12 @@
       "best": 12388,
       "at": "2026-02-01T12:26:02Z",
       "manifest": "maps/speedrun_mnogostrafe2/manifest.json"
+    },
+    "speedrun_celerior_beta1": {
+      "n": 1,
+      "best": 13739,
+      "at": "2026-07-18T15:35:25.000Z",
+      "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_leszcz": {
       "n": 1,
@@ -956,6 +962,12 @@
       "best": 11433,
       "at": "2025-11-11T12:04:24Z",
       "manifest": "maps/speedrun_easy_v1_remake_kaniel/manifest.json"
+    },
+    "speedrun_buns": {
+      "n": 1,
+      "best": 20776,
+      "at": "2026-07-18T12:07:44.000Z",
+      "manifest": "maps/speedrun_buns/manifest.json"
     },
     "speedrun_several_trilogy": {
       "n": 1,

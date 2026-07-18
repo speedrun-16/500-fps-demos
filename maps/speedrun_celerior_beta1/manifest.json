@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_celerior_beta1",
+  "updatedAt": "2026-07-18T18:00:07.143Z",
+  "runs": [
+    {
+      "uid": "KMBGHBXL4",
+      "rid": 71807,
+      "hash": "62b0888976d1a12e095f7750a5d6b381435faf5719137a4b70bbb8edfa97be02",
+      "t": 13739,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-07-18T15:35:25.000Z",
+      "zip": "00013739_STEAM_0_1_87291981_20260718-153525.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celerior_beta1-20260718-#KMBGHBXL4.dem",
+          "off": 77,
+          "size": 226018
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celerior_beta1-20260718-#KMBGHBXL4.analysis.json",
+          "off": 226182,
+          "size": 758978
+        },
+        {
+          "type": "replay",
+          "name": "71807.replay.xz",
+          "off": 985205,
+          "size": 105168
+        }
+      ]
+    }
+  ]
+}

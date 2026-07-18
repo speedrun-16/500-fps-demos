@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_buns",
+  "updatedAt": "2026-07-18T18:00:07.144Z",
+  "runs": [
+    {
+      "uid": "M69LBXNX8",
+      "rid": 71676,
+      "hash": "99793419e94244bb639e345b10219bfe6e6c21b482fe87fbf83332f2149a9603",
+      "t": 20776,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-07-18T12:07:44.000Z",
+      "zip": "00020776_STEAM_0_0_35544084_20260718-120744.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_buns-20260718-#M69LBXNX8.dem",
+          "off": 67,
+          "size": 339138
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_buns-20260718-#M69LBXNX8.analysis.json",
+          "off": 339282,
+          "size": 1270937
+        },
+        {
+          "type": "replay",
+          "name": "71676.replay.xz",
+          "off": 1610264,
+          "size": 140416
+        }
+      ]
+    }
+  ]
+}
