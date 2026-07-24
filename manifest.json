@@ -1,13 +1,19 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-23T18:00:00.592Z",
+  "updatedAt": "2026-07-24T12:00:03.342Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
       "best": 15163,
       "at": "2025-11-17T07:43:23Z",
       "manifest": "maps/speedrun_trol/manifest.json"
+    },
+    "deathrun_kolor_v2": {
+      "n": 1,
+      "best": 10707,
+      "at": "2026-07-24T11:40:59.000Z",
+      "manifest": "maps/deathrun_kolor_v2/manifest.json"
     },
     "speedrun_veryeasy": {
       "n": 1,
