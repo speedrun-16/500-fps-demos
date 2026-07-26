@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-26T12:00:00.762Z",
+  "updatedAt": "2026-07-26T18:00:04.686Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -647,8 +647,8 @@
     },
     "speedrun_furame": {
       "n": 1,
-      "best": 18974,
-      "at": "2026-07-26T09:31:25.000Z",
+      "best": 18331,
+      "at": "2026-07-26T12:40:35.000Z",
       "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_noob2": {
