@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-07-26T18:00:04.686Z",
+  "updatedAt": "2026-07-28T00:00:15.574Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -662,6 +662,12 @@
       "best": 19046,
       "at": "2026-01-22T13:39:37Z",
       "manifest": "maps/speedrun_sqn/manifest.json"
+    },
+    "speedrun_small_white": {
+      "n": 1,
+      "best": 7373,
+      "at": "2026-07-27T20:00:02.000Z",
+      "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "deathrun_forest2_final": {
       "n": 1,
