@@ -6,8 +6,8 @@ Personal best demo archive for this map in the 500 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 1 |
-| Latest Update | 2026-02-06 |
+| Archived PBs | 2 |
+| Latest Update | 2026-08-03 |
 
 ## Structure
 
