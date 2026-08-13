@@ -1,33 +1,33 @@
 {
   "map": "speedrun_miqu",
-  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "updatedAt": "2026-08-13T18:00:15.803Z",
   "runs": [
     {
-      "uid": "D561WPE1C",
-      "rid": 53257,
-      "hash": "7213f17a31a33adaf84f5e93349a1f85104ee3d8218625a867a69dd5d9a96dc8",
-      "t": 14847,
+      "uid": "370AWQUAY",
+      "rid": 81263,
+      "hash": "cd604240bb4f35bc2f9db64ed219091d53bbf4c1db62736d7aa48c6393927839",
+      "t": 14791,
       "sid": "STEAM_0:1:87291981",
-      "at": "2026-05-15T17:22:52Z",
-      "zip": "00014847_STEAM_0_1_87291981_20260515-172252.zip",
+      "at": "2026-08-13T16:39:38.000Z",
+      "zip": "00014791_STEAM_0_1_87291981_20260813-163938.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_miqu-20260515-#D561WPE1C.analysis.json",
-          "off": 77,
-          "size": 846630
+          "type": "dem",
+          "name": "speedrun_miqu-20260813-#370AWQUAY.dem",
+          "off": 67,
+          "size": 227923
         },
         {
-          "type": "dem",
-          "name": "speedrun_miqu-20260515-#D561WPE1C.dem",
-          "off": 846774,
-          "size": 226755
+          "type": "analysis",
+          "name": "speedrun_miqu-20260813-#370AWQUAY.analysis.json",
+          "off": 228067,
+          "size": 777300
         },
         {
           "type": "replay",
-          "name": "53257.replay.xz",
-          "off": 1073574,
-          "size": 109120
+          "name": "81263.replay.xz",
+          "off": 1005412,
+          "size": 104500
         }
       ]
     },
