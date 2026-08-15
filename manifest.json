@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-08-14T12:00:13.248Z",
+  "updatedAt": "2026-08-15T00:00:01.321Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -646,9 +646,9 @@
       "manifest": "maps/speedrun_yagrehsart_100fps/manifest.json"
     },
     "speedrun_furame": {
-      "n": 1,
-      "best": 18331,
-      "at": "2026-07-26T12:40:35.000Z",
+      "n": 2,
+      "best": 14614,
+      "at": "2026-08-14T19:18:49.000Z",
       "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_noob2": {
@@ -815,8 +815,8 @@
     },
     "de_dust": {
       "n": 3,
-      "best": 6877,
-      "at": "2026-05-27T16:10:42Z",
+      "best": 6787,
+      "at": "2026-08-14T19:30:43.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_revived_short": {

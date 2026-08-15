@@ -1,33 +1,33 @@
 {
   "map": "de_dust",
-  "updatedAt": "2026-06-19T05:54:00.241948Z",
+  "updatedAt": "2026-08-15T00:00:01.321Z",
   "runs": [
     {
-      "uid": "A4IBH8WGA",
-      "rid": 57224,
-      "hash": "1a17bca50f380ff79c2af5edfa9398b59f06ff3ea1d92016861c0a309cbfde8f",
-      "t": 6877,
+      "uid": "MTSLKX003",
+      "rid": 82069,
+      "hash": "0f4e8cc68b44a0927577094ff3ea073d1a00f04cb8a4aaf9d2abe6da6c747a8e",
+      "t": 6787,
       "sid": "STEAM_0:1:87291981",
-      "at": "2026-05-27T16:10:42Z",
-      "zip": "00006877_STEAM_0_1_87291981_20260527-161042.zip",
+      "at": "2026-08-14T19:30:43.000Z",
+      "zip": "00006787_STEAM_0_1_87291981_20260814-193043.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "de_dust-20260527-#A4IBH8WGA.analysis.json",
-          "off": 71,
-          "size": 513979
+          "type": "dem",
+          "name": "de_dust-20260814-#MTSLKX003.dem",
+          "off": 61,
+          "size": 132963
         },
         {
-          "type": "dem",
-          "name": "de_dust-20260527-#A4IBH8WGA.dem",
-          "off": 514111,
-          "size": 137263
+          "type": "analysis",
+          "name": "de_dust-20260814-#MTSLKX003.analysis.json",
+          "off": 133095,
+          "size": 471373
         },
         {
           "type": "replay",
-          "name": "57224.replay.xz",
-          "off": 651419,
-          "size": 60068
+          "name": "82069.replay.xz",
+          "off": 604513,
+          "size": 55472
         }
       ]
     },
