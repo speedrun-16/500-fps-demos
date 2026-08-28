@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_df_kool_mini7",
+  "updatedAt": "2026-08-28T00:00:05.060Z",
+  "runs": [
+    {
+      "uid": "GOGSN41DX",
+      "rid": 88080,
+      "hash": "7a3abbcc67e5f8e81bab64a98f4fb454fc88868030ecc6ca595e0fa40243a706",
+      "t": 25816,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-08-27T20:17:27.000Z",
+      "zip": "00025816_STEAM_0_0_35544084_20260827-201727.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260827-#GOGSN41DX.dem",
+          "off": 76,
+          "size": 410955
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260827-#GOGSN41DX.analysis.json",
+          "off": 411117,
+          "size": 1371389
+        },
+        {
+          "type": "replay",
+          "name": "88080.replay.xz",
+          "off": 1782551,
+          "size": 163512
+        }
+      ]
+    }
+  ]
+}
