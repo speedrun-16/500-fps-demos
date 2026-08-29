@@ -1,7 +1,36 @@
 {
   "map": "speedrun_df_kool_mini7",
-  "updatedAt": "2026-08-28T00:00:05.060Z",
+  "updatedAt": "2026-08-29T00:00:00.745Z",
   "runs": [
+    {
+      "uid": "M44351BAN",
+      "rid": 88563,
+      "hash": "8e36aa1b3c4581214319de8dae201625fbd6538cb544c188ffcf3540800e214c",
+      "t": 20289,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-08-28T20:04:28.000Z",
+      "zip": "00020289_STEAM_0_1_29970948_20260828-200428.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260828-#M44351BAN.dem",
+          "off": 76,
+          "size": 327184
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260828-#M44351BAN.analysis.json",
+          "off": 327346,
+          "size": 1089317
+        },
+        {
+          "type": "replay",
+          "name": "88563.replay.xz",
+          "off": 1416708,
+          "size": 137020
+        }
+      ]
+    },
     {
       "uid": "GOGSN41DX",
       "rid": 88080,
