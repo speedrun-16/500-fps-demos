@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-09-21T00:00:00.787Z",
+  "updatedAt": "2026-10-04T00:00:07.077Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -515,8 +515,8 @@
     },
     "speedrun_runners": {
       "n": 3,
-      "best": 10054,
-      "at": "2026-05-09T20:04:50Z",
+      "best": 10015,
+      "at": "2026-10-03T18:53:37.000Z",
       "manifest": "maps/speedrun_runners/manifest.json"
     },
     "speedrun_evidens_big": {
