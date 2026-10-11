@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-10-04T00:00:07.077Z",
+  "updatedAt": "2026-10-11T18:00:07.165Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -374,6 +374,12 @@
       "best": 19517,
       "at": "2026-06-01T16:53:22Z",
       "manifest": "maps/speedrun_hb_ora-upania/manifest.json"
+    },
+    "speedrun_df_r7_brigi": {
+      "n": 1,
+      "best": 12620,
+      "at": "2026-10-11T14:43:50.000Z",
+      "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_katozlandia": {
       "n": 1,

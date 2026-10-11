@@ -6,9 +6,9 @@ Map-level archive directory for the 500 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 180 |
-| Archived PBs | 264 |
-| Latest Update | 2026-10-03 |
+| Maps | 181 |
+| Archived PBs | 265 |
+| Latest Update | 2026-10-11 |
 
 ## Structure
 
