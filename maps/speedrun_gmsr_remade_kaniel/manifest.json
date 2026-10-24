@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_gmsr_remade_kaniel",
+  "updatedAt": "2026-10-24T18:00:04.121Z",
+  "runs": [
+    {
+      "uid": "DHSTYV9GA",
+      "rid": 96286,
+      "hash": "dcfdbf94ecc81318b11b397eb0aac96eb636820148b9ea20eebb641471b81200",
+      "t": 12840,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-10-24T15:42:09.000Z",
+      "zip": "00012840_STEAM_0_0_35544084_20261024-154209.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_gmsr_remade_kaniel-20261024-#DHSTYV9GA.dem",
+          "off": 81,
+          "size": 228595
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_gmsr_remade_kaniel-20261024-#DHSTYV9GA.analysis.json",
+          "off": 228767,
+          "size": 843095
+        },
+        {
+          "type": "replay",
+          "name": "96286.replay.xz",
+          "off": 1071907,
+          "size": 89656
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_fr33d0m_fix",
+  "updatedAt": "2026-10-24T18:00:04.121Z",
+  "runs": [
+    {
+      "uid": "NEPNU7BII",
+      "rid": 96283,
+      "hash": "142d41041241324f8508da87a2598b6546b4f221ecdca02ef862d57767c372fb",
+      "t": 14216,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-10-24T15:39:42.000Z",
+      "zip": "00014216_STEAM_0_0_35544084_20261024-153942.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_fr33d0m_fix-20261024-#NEPNU7BII.dem",
+          "off": 74,
+          "size": 256337
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_fr33d0m_fix-20261024-#NEPNU7BII.analysis.json",
+          "off": 256495,
+          "size": 965903
+        },
+        {
+          "type": "replay",
+          "name": "96283.replay.xz",
+          "off": 1222443,
+          "size": 102488
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-10-11T18:00:07.165Z",
+  "updatedAt": "2026-10-24T18:00:04.121Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -369,6 +369,12 @@
       "at": "2026-02-01T15:25:02Z",
       "manifest": "maps/speedrun_record/manifest.json"
     },
+    "speedrun_gmsr_remade_kaniel": {
+      "n": 1,
+      "best": 12840,
+      "at": "2026-10-24T15:42:09.000Z",
+      "manifest": "maps/speedrun_gmsr_remade_kaniel/manifest.json"
+    },
     "speedrun_hb_ora-upania": {
       "n": 1,
       "best": 19517,
@@ -518,6 +524,12 @@
       "best": 7659,
       "at": "2025-09-22T20:49:34Z",
       "manifest": "maps/deathrun_astro/manifest.json"
+    },
+    "speedrun_fr33d0m_fix": {
+      "n": 1,
+      "best": 14216,
+      "at": "2026-10-24T15:39:42.000Z",
+      "manifest": "maps/speedrun_fr33d0m_fix/manifest.json"
     },
     "speedrun_runners": {
       "n": 3,
