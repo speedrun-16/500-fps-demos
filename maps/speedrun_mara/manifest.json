@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_mara",
+  "updatedAt": "2026-10-25T18:00:00.657Z",
+  "runs": [
+    {
+      "uid": "XE0M9FTFN",
+      "rid": 96315,
+      "hash": "53e5261a189cd333ba78d28fb19533b703005770941da68b4c100c71c8e0332d",
+      "t": 20330,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-10-25T12:08:34.000Z",
+      "zip": "00020330_STEAM_0_0_35544084_20261025-120834.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_mara-20261025-#XE0M9FTFN.dem",
+          "off": 67,
+          "size": 348974
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_mara-20261025-#XE0M9FTFN.analysis.json",
+          "off": 349118,
+          "size": 1322486
+        },
+        {
+          "type": "replay",
+          "name": "96315.replay.xz",
+          "off": 1671649,
+          "size": 133812
+        }
+      ]
+    }
+  ]
+}

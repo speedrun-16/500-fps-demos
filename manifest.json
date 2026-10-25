@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-10-24T18:00:04.121Z",
+  "updatedAt": "2026-10-25T18:00:00.657Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -638,6 +638,12 @@
       "best": 8930,
       "at": "2025-11-09T09:59:24Z",
       "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
+    },
+    "speedrun_mara": {
+      "n": 1,
+      "best": 20330,
+      "at": "2026-10-25T12:08:34.000Z",
+      "manifest": "maps/speedrun_mara/manifest.json"
     },
     "speedrun_vantara": {
       "n": 3,
