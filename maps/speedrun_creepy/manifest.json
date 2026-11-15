@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_creepy",
+  "updatedAt": "2026-11-15T12:00:00.460Z",
+  "runs": [
+    {
+      "uid": "U01GLELKC",
+      "rid": 98251,
+      "hash": "54bd4672bc579b76079eefdc0d1b4458ff588766cc3138be80859eb5755d22c9",
+      "t": 9637,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-11-15T11:05:00.000Z",
+      "zip": "00009637_STEAM_0_0_35544084_20261115-110500.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_creepy-20261115-#U01GLELKC.dem",
+          "off": 69,
+          "size": 185583
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_creepy-20261115-#U01GLELKC.analysis.json",
+          "off": 185731,
+          "size": 662266
+        },
+        {
+          "type": "replay",
+          "name": "98251.replay.xz",
+          "off": 848042,
+          "size": 65384
+        }
+      ]
+    }
+  ]
+}
