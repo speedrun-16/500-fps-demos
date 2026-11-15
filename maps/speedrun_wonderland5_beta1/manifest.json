@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_wonderland5_beta1",
+  "updatedAt": "2026-11-15T00:00:04.595Z",
+  "runs": [
+    {
+      "uid": "8Z0N6OWC4",
+      "rid": 98199,
+      "hash": "e34f56efc2299bf1a400d1136e896ad1f2064846a2be82ccd005341f213155b2",
+      "t": 22322,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-11-14T21:30:06.000Z",
+      "zip": "00022322_STEAM_0_1_87291981_20261114-213006.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wonderland5_beta1-20261114-#8Z0N6OWC4.dem",
+          "off": 80,
+          "size": 326079
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wonderland5_beta1-20261114-#8Z0N6OWC4.analysis.json",
+          "off": 326249,
+          "size": 1186673
+        },
+        {
+          "type": "replay",
+          "name": "98199.replay.xz",
+          "off": 1512967,
+          "size": 158112
+        }
+      ]
+    },
+    {
+      "uid": "D5JKL7O04",
+      "rid": 98203,
+      "hash": "2cfe5688bfe53c914cb590323c779e4474f233f7c7c0a4bcd30f8dc1ab2a54da",
+      "t": 33294,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2026-11-14T21:52:49.000Z",
+      "zip": "00033294_STEAM_0_0_35544084_20261114-215249.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wonderland5_beta1-20261114-#D5JKL7O04.dem",
+          "off": 80,
+          "size": 493796
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wonderland5_beta1-20261114-#D5JKL7O04.analysis.json",
+          "off": 493966,
+          "size": 1758127
+        },
+        {
+          "type": "replay",
+          "name": "98203.replay.xz",
+          "off": 2252138,
+          "size": 212272
+        }
+      ]
+    }
+  ]
+}
