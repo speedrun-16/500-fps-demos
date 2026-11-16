@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-11-15T12:00:00.460Z",
+  "updatedAt": "2026-11-16T18:00:30.658Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -922,9 +922,9 @@
       "manifest": "maps/speedrun_skull_bronze/manifest.json"
     },
     "speedrun_df_kool_mini7": {
-      "n": 2,
-      "best": 20289,
-      "at": "2026-08-28T20:04:28.000Z",
+      "n": 3,
+      "best": 20271,
+      "at": "2026-11-16T16:49:14.000Z",
       "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_dust2_kaniel": {
