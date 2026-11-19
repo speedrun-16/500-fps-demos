@@ -1,7 +1,7 @@
 {
   "category": 6,
   "categoryName": "500 FPS",
-  "updatedAt": "2026-11-16T18:00:30.658Z",
+  "updatedAt": "2026-11-19T00:00:04.804Z",
   "maps": {
     "speedrun_trol": {
       "n": 1,
@@ -886,9 +886,9 @@
       "manifest": "maps/speedrun_bunnyrace_beta2/manifest.json"
     },
     "speedrun_easy_v1": {
-      "n": 4,
+      "n": 5,
       "best": 10164,
-      "at": "2026-05-06T18:48:37Z",
+      "at": "2026-11-18T19:38:50.000Z",
       "manifest": "maps/speedrun_easy_v1/manifest.json"
     },
     "speedrun_helvis_ak": {
